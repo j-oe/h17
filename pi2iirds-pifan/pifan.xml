@@ -1,0 +1,2616 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+  <meta-info>
+    <docudata>
+      <author>Philipp Schugk</author>
+    </docudata>
+    <covermedia>
+      <image objectname="Module,Grafiken,DTD/Grafiken/PI-Mod-Fan.jpg"/>
+    </covermedia>
+    <productdata>
+      <productname>
+        <emphasis>PI-Mod-Fan</emphasis>
+      </productname>
+      <productidentno>PI-Mod-Fan_1-0a</productidentno>
+      <productmodel>1-0a</productmodel>
+      <producttype>Fan</producttype>
+    </productdata>
+    <manufact>
+      <name>Hochschule Karlsruhe - Technik und Wirtschaft</name>
+      <postcode>76133</postcode>
+      <postofficebox>Amalienstr. 81-87</postofficebox>
+      <city>Karlsruhe</city>
+      <phone>+49721 9251123</phone>
+      <fax>+49721 9251125</fax>
+      <email>Sekretariat.kmm.imm@hs-karlsruhe.de</email>
+      <url>http://www.hs-karlsruhe.de/fakultaeten/informationsmanagement-und-medien/bachelorstudiengaenge/kmm-b.html</url>
+    </manufact>
+  </meta-info>
+  <descriptive xmlns:iirds="http://iirds.tekom.de/iirds" countrycode="DE" langcode="de" translate="yes" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#SafetyInstruction" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunden" media="PDF CHM" market="de-DE de-CH de-AT" nodeid="0043">
+    <heading>Sicherheitshinweise</heading>
+    <descriptive_body>
+      <paragraph>Befolgen Sie unbedingt die folgenden Sicherheitshinweise. Diese
+Sicherheitsmaßnahmen sind notwendig, um Sie und den PI-Mod-Fan vor Schaden zu
+bewahren.</paragraph>
+      <list>
+        <listintro>Allgemeine
+Sicherheitshinweise</listintro>
+        <item>
+          <paragraph>Lesen Sie diese
+Nutzerdokumentation direkt nach dem Auspacken sorgfältig
+durch.</paragraph>
+        </item>
+        <item>
+          <paragraph>Halten Sie Kleinkinder von dem Gerät
+fern.</paragraph>
+          <paragraph>Personen mit reduzierten physischen, sensorischen
+oder geistigen Fähigkeiten sind für die Nutzung des Gerätes ungeeignet.
+Ausnahme ist, wenn dies im Beisein einer Aufsichtsperson geschieht, die den
+sicheren Gebrauch gewährleistet.</paragraph>
+        </item>
+        <item>
+          <paragraph>Dieses
+Gerät ist kein Spielzeug, daher sollten Kinder beaufsichtigt werden, damit sie
+mit dem Gerät nicht spielen.</paragraph>
+        </item>
+        <item>
+          <paragraph>Stellen Sie
+sicher, dass Kinder nicht mit dem Verpackungsmaterial des Gerätes
+spielen.</paragraph>
+        </item>
+        <item>
+          <paragraph>Nehmen Sie das Gerät nicht
+auseinander. Das Innenleben enthält keine verwendbaren Teile für
+Sie.</paragraph>
+        </item>
+        <item>
+          <paragraph>Verwenden Sie das Gerät nur für seinen
+vorgesehenen Gebrauch.</paragraph>
+        </item>
+        <item>
+          <paragraph>Wird das Gerät einer
+anderen Person ausgehändigt, ist die Nutzerdokumentation ebenfalls
+auszuhändigen.</paragraph>
+        </item>
+        <item>
+          <paragraph>Wir haften nicht für Schäden
+an Personen, Gegenständen oder dem Gerät, wenn diese durch unsachgemäßen
+Gebrauch entstehen. Die Anweisungen des Nutzerhandbuches sind zu
+befolgen.</paragraph>
+        </item>
+      </list>
+      <list>
+        <listintro>Achtung
+Lebensgefahr!</listintro>
+        <item>
+          <paragraph>Das Gerät darf nur vollständig
+montiert betrieben werden.</paragraph>
+        </item>
+        <item>
+          <paragraph>Das Gerät darf
+nicht nass werden.</paragraph>
+        </item>
+        <item>
+          <paragraph>Gerät und
+Stromkabel/Steckdosen-Kabel von Hitzequellen fernhalten.</paragraph>
+        </item>
+        <item>
+          <paragraph>Offene Behältnisse mit Flüssigkeiten von Gerät und
+Stromkabel/Steckdosen-Kabel fernhalten. Z.B. Waschbecken, Badewannen, Putzeimer
+etc.</paragraph>
+        </item>
+        <item>
+          <paragraph>Es ist verboten, das Gerät mit nassen
+Händen zu verwenden.</paragraph>
+        </item>
+        <item>
+          <paragraph>Das Stromnetz, an dem
+das Gerät angeschlossen wird, muss geerdet sein.</paragraph>
+        </item>
+        <item>
+          <paragraph>Das Gerät darf nur an Netzspannungen betrieben werden, die mit den
+Werten des Typenschilds übereinstimmen.</paragraph>
+        </item>
+        <item>
+          <paragraph>Achtung Stolpergefahr! Bei frei hängendem/liegendem
+Stromkabel/Steckdosen-Kabel stellen Sie sicher, dass dieses nicht aus der
+Steckdose gerissen wird oder eingeklemmt wird. </paragraph>
+        </item>
+        <item>
+          <paragraph>Das Gerät darf nur in unbeschädigtem Zustand betrieben werden. Das
+Stromkabel/Steckdosen-Kabel muss ebenfalls in einwandfreiem Zustand
+sein.</paragraph>
+        </item>
+        <item>
+          <paragraph>Das Gerät darf nur mit
+Original-Ersatzteilen und von qualifizierten Fachkräften repariert
+werden.</paragraph>
+        </item>
+        <item>
+          <paragraph>Ziehen Sie das Steckdosen-Kabel am
+Stecker aus der Buchse. Ziehen Sie am Kabel, kann dieses beschädigt
+werden.</paragraph>
+        </item>
+      </list>
+    </descriptive_body>
+  </descriptive>
+  <descriptive xmlns:iirds="http://iirds.tekom.de/iirds" countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Transport" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0047">
+    <heading>Transport</heading>
+    <descriptive_body>
+      <paragraph>Der PI-Mod-Fan ist ausschließlich in der Originalverpackung zu
+transportieren, damit das Gerät beim Transport keinen Schaden
+erleidet.</paragraph>
+      <paragraph>Originalverpackt ist der PI-Mod-Fan gegen
+leichte Stöße und Erschütterungen geschützt.</paragraph>
+      <safetyadvice class="caution">
+        <cause>Beschädigung durch harte Stöße.</cause>
+        <action>
+          <condition>Beim Transport durch Personen.</condition>
+          <step>Lassen Sie
+den originalverpackten PI-Mod-Fan nicht Fallen.</step>
+        </action>
+        <action>
+          <condition>Beim Transport durch Personen.</condition>
+          <step>Werfen Sie den
+originalverpackten PI-Mod-Fan nicht.</step>
+        </action>
+        <action>
+          <condition>Beim
+Transport in Stauräumen.</condition>
+          <step>Verbauen Sie den originalverpackten
+PI-Mod-Fan so, dass keine schweren Gegenstände auf ihn fallen
+können.</step>
+        </action>
+        <action>
+          <condition>Beim Transport in
+Stauräumen.</condition>
+          <step>Sichern sie den originalverpackten PI-Mod-Fan und
+andere Gegenstände im Stauraum so, dass diese nicht im Stauraum hin und her
+geschleudert werden
+können.</step>
+        </action>
+      </safetyadvice>
+    </descriptive_body>
+  </descriptive>
+  <descriptive xmlns:iirds="http://iirds.tekom.de/iirds" countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Storage" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0026">
+    <heading>Lagerung</heading>
+    <descriptive_body>
+      <paragraph>Lagern Sie den PI-Mod-Fan ausschließlich in der Originalverpackung,
+damit dieser ausreichend gegen Verunreinigung und leichte Stöße und
+Erschütterungen geschützt ist.</paragraph>
+      <paragraph>Lagern Sie den PI-Mod-Fan
+nur in geschlossenen trockenen Räumen.</paragraph>
+      <paragraph>Lagern Sie den
+PI-Mod-Fan nicht bei Temperaturen über <inlinedata><si-value>
+<number>40</number><unit>°C </unit></si-value></inlinedata>oder unter 
+<inlinedata><si-value><number>-10</number>
+<unit>°C</unit></si-value></inlinedata>.</paragraph>
+    </descriptive_body>
+  </descriptive>
+  <chapter xmlns:iirds="http://iirds.tekom.de/iirds" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" countrycode="DE" langcode="de" valid="yes" nodeid="0037">
+    <heading>Produktbeschreibung</heading>
+    <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0011">
+      <heading>Bestimmungsgemäßer/unzulässiger
+Gebrauch</heading>
+      <descriptive_body>
+        <paragraph>Der PI-Mod-Fan dient
+ausschließlich zur Umwälzung der Raumluft.</paragraph>
+        <list>
+          <listintro>Die
+Verwendung des PI-Mod-Fan ist in folgenden Umgebungen Verboten:</listintro>
+          <item>
+            <paragraph>In Maschinen</paragraph>
+          </item>
+          <item>
+            <paragraph>Ungeschützt im
+Freien</paragraph>
+          </item>
+          <item>
+            <paragraph>In Garagen</paragraph>
+          </item>
+          <item>
+            <paragraph>In feuchten oder nassen Räumen</paragraph>
+          </item>
+          <item>
+            <paragraph>In
+feuergefährdeten Räumen</paragraph>
+          </item>
+          <item>
+            <paragraph>In
+explosionsgefährdeten
+Räumen</paragraph>
+          </item>
+        </list>
+      </descriptive_body>
+    </descriptive>
+    <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0024">
+      <heading>Konformitätserklärung</heading>
+      <descriptive_body>
+        <list>
+          <listintro>Der PI-Mod-Fan wurde getestet und für
+konform mit folgenden europäischen Richtlinien befunden:</listintro>
+          <item>
+            <paragraph>93/68/EEC CE-Kennzeichnung</paragraph>
+          </item>
+          <item>
+            <paragraph>2006/95/EC Niederspannungsrichtlinie</paragraph>
+          </item>
+          <item>
+            <paragraph>2004/108/EC
+EMC-Richtlinie</paragraph>
+          </item>
+        </list>
+      </descriptive_body>
+    </descriptive>
+    <chapter iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" countrycode="DE" langcode="de" translate="yes" nodeid="0020">
+      <heading>Funktionsbeschreibung</heading>
+      <chapter iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" countrycode="DE" langcode="de" translate="yes" nodeid="0010">
+        <heading>Bauteile</heading>
+        <tools countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0048">
+          <heading>Übersicht</heading>
+          <tools_body>
+            <part>
+              <name>Standfuß</name>
+              <identno>PI-Mod-Fan 1.0a StFu</identno>
+              <description>Der
+Standfuß verschafft dem PI-Mod-Fan einen soliden Stand durch seinen Durchmesser
+und sein Gewicht, wenn er für den Standbetrieb montiert ist. In der Wandmontage
+dient der Standfuß als Sichtblende für die Wandbefestigung. Am Standfuß
+befindet sich die Buchse für den Anschluss am
+Stromkabel/Steckdosen-Kabel.</description>
+            </part>
+            <part>
+              <name>Wandbefestigung</name>
+              <identno>PI-Mod-Fan 1.0a WaBe</identno>
+              <description>Die Wandbefestigung ermöglicht es, den PI-Mod-Fan sicher an der
+Wand zu befestigen.</description>
+            </part>
+            <part>
+              <name>Bodenstange</name>
+              <identno>PI-Mod-Fan 1.0a BoSt</identno>
+              <description>Die Bodenstange ist in
+Kombination mit dem Stangenoberteil das Verbindungsstück zwischen Kopfeinheit
+und Standfuß im Standbetrieb. Wird der PI-Mod-Fan an der Wand montiert, wird
+die Wandstange anstelle der Bodenstange verwendet.</description>
+            </part>
+            <part>
+              <name>Wandstange</name>
+              <identno>PI-Mod-Fan 1.0a WaSt</identno>
+              <description>Die
+Wandstange ist in Kombination mit dem Stangenoberteil das Verbindungsstück
+zwischen Kopfeinheit und Standfuß im Betrieb an der Wand. Wird der PI-Mod-Fan
+für den Standbetrieb montiert, wird die Bodenstange anstelle der Wandstange
+verwendet.</description>
+            </part>
+            <part>
+              <name>Stangenoberteil</name>
+              <identno>PI-Mod-Fan 1.0a StOb</identno>
+              <description>Das Stangenoberteil ist in
+Kombination mit Bodenstange oder Wandstange das Verbindungsstück zwischen
+Kopfeinheit und Standfuß. Wird die Stellschraube an Boden-/Wandstange gelöst,
+kann die Höhe des PI-Mod-Fans verstellt werden, in dem das Stangenoberteil in
+die Boden-/Wandstange tiefer eingeschoben oder aus dieser herausgezogen
+wird.</description>
+            </part>
+            <part>
+              <name>Kopfeinheit</name>
+              <identno>PI-Mod-Fan
+1.0a KoEi</identno>
+              <description>Die Kopfeinheit wird zusammen mit anderen
+Komponenten zur Rotoreinheit montiert. Die Rotoreinheit enthält die Motoren,
+die Rotor und Oszillation ermöglichen. An der Rotoreinheit befinden sich
+Schalter, mit denen der PI-Mod-Fan geregelt werden kann, sowie die Empfänger
+für die Fernbedienung. Die Kopfeinheit beinhaltet eine Ladestation für die
+Fernbedienung.</description>
+            </part>
+            <part>
+              <name>Rotorblatt-Halterung</name>
+              <identno>PI-Mod-Fan 1.0a RoHa</identno>
+              <description> Die Rotorblätter werden in
+der Rotorblatt-Halterung befestigt und bilden den Rotor.</description>
+            </part>
+            <part>
+              <name>Rotorblatt</name>
+              <identno>PI-Mod-Fan 1.0a RoBl</identno>
+              <description>Die Rotorblätter werden in der Rotorblatt-Halterung befestigt und
+bilden den Rotor.</description>
+            </part>
+            <part>
+              <name>Rotor</name>
+              <description>Der
+Rotor ist kein eigenständiges Bauteil, er wird aus Rotorblatt-Halterung und den
+Rotorblättern montiert. Der Rotor wird zusammen mit anderen Komponenten zur
+Rotoreinheit montiert. Von der Kopfeinheit angetrieben, erzeugt der Rotor den
+Luftstrom.</description>
+            </part>
+            <part>
+              <name>Rotoreinheit</name>
+              <description>Die
+Rotoreinheit besteht aus mehreren Bauteilen, die unmontiert geliefert werden.
+Der Zusammenbau wird unter <link linktotargetid="Rotormontage_task.xml">Rotormontage</link>
+beschrieben.</description>
+            </part>
+            <part>
+              <name>Hinteres Schutzgitter</name>
+              <identno>PI-Mod-Fan 1.0a HiSc</identno>
+              <description>Das hintere Schutzgitter
+wird zusammen mit anderen Komponenten zur Rotoreinheit montiert. Das hintere
+Schutzgitter wird an die Kopfeinheit angesteckt und das vordere Schutzgitter
+auf das hintere Schutzgitter aufgesetzt und mit Schutzgitter-Klemmen befestigt.
+Das Schutzgitter verhindert den Kontakt zum drehenden Rotor und beugt damit
+Personenschäden oder Sachbeschädigungen vor.</description>
+            </part>
+            <part>
+              <name>Vorderes Schutzgitter</name>
+              <identno>PI-Mod-Fan 1.0a VoSc</identno>
+              <description>Das vordere Schutzgitter wird zusammen mit anderen Komponenten zur
+Rotoreinheit montiert. Das vordere Schutzgitter wird auf das hintere
+Schutzgitter aufgesetzt und durch die Schutzgitter-Klemmen befestigt. Das
+Schutzgitter verhindert den Kontakt zum drehenden Rotor und beugt damit
+Personenschäden oder Sachbeschädigungen vor.</description>
+            </part>
+            <part>
+              <name>Steckdosen-Kabel</name>
+              <identno>PI-Mod-Fan 1.0a StKa</identno>
+              <description>Das Steckdosen-Kabel versorgt den PI-Mod-Fan mit Strom, indem es
+Strom von der Steckdose zum Standfuß leitet.</description>
+            </part>
+            <part>
+              <name>Stromkabel-Adapter</name>
+              <identno>PI-Mod-Fan 1.0a StAd</identno>
+              <description>Der Stromkabel-Adapter wird für den Betrieb an der Wand benötigt,
+wenn der PI-Mod-Fan nicht mit dem Steckdosen-Kabel an der Steckdose betrieben
+werden soll. Der Stromkabel-Adapter wird mit einer elektrischen Leitung des
+Raumes verbunden und wird in den PI-Mod-Fan anstelle des Stromkabels
+eingesteckt. Dies ermöglicht eine Verblendung der elektrischen Leitung, um
+Gefahren durch ein frei hängendes Kabel zu vermeiden und es optisch zu
+verdecken.</description>
+            </part>
+            <part>
+              <name>Fernbedienung</name>
+              <identno>PI-Mod-Fan 1.0a FeBe</identno>
+              <description>Die Fernbedienung dient der
+Regelung des PI-Mod-Fans aus der Entfernung. Die Fernbedienung ist mit einer
+eingebauten Batterie versehen und wird wieder aufgeladen, indem sie in der
+Ladestation an der Kopfeinheit eingesteckt
+wird.</description>
+            </part>
+          </tools_body>
+        </tools>
+        <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0009">
+          <heading>Bauteil nachbestellen</heading>
+          <orientation>
+            <paragraph>Alle Bauteile, die unter
+<link linktotargetid="Uebersicht_tools.xml">Übersicht</link> aufgeführt sind,
+können jederzeit nachbestellt werden.</paragraph>
+          </orientation>
+          <task_body>
+            <action>
+              <step>Geben Sie in Ihrem Internet-Browser folgende Internetadresse ein:
+<link linktotargetid="http//:www.pi-mod.de/reg/">http//:www.pi-mod.de/reg/</link></step>
+            </action>
+            <action>
+              <condition>Sie haben sich noch nicht auf unserer Internetseite
+registriert.</condition>
+              <step>Klicken Sie auf <emphasis>Registrieren
+</emphasis>und folgen den Anweisungen auf unserer
+Internetseite.</step>
+            </action>
+            <or-action>
+              <action>
+                <condition>Sie sind bereits
+auf unserer Internetseite registriert.</condition>
+                <step>Geben Sie Benutzername
+und Passwort in die Eingabefelder des Kunden-Login
+ein.</step>
+              </action>
+            </or-action>
+            <result>
+              <paragraph>Sie sind auf unserer
+Internetseite angemeldet.</paragraph>
+            </result>
+            <action>
+              <step>Klicken Sie auf die
+Schaltfläche <emphasis>Ersatzteile</emphasis>.</step>
+            </action>
+            <action>
+              <step>Wählen Sie Ihr Produkt aus.</step>
+            </action>
+            <result>
+              <paragraph>Die
+verfügbaren Ersatzteile Ihres Produktes werden angezeigt.</paragraph>
+            </result>
+            <action>
+              <step>Klicken Sie in der Spalte <emphasis>Bestellen </emphasis>ein oder
+mehrere Ersatzteile an.</step>
+            </action>
+            <action>
+              <step>Tragen Sie in der Spalte
+<emphasis>Anzahl </emphasis>die jeweils benötigte Menge ein.</step>
+            </action>
+            <action>
+              <condition>Alle benötigten Ersatzteile sind ausgewählt und die Anzahl
+angegeben.</condition>
+              <step>Klicken Sie auf <emphasis>Dem Warenkorb
+hinzufügen</emphasis>.</step>
+            </action>
+            <result>
+              <paragraph>Der/die Artikel wurde
+dem Warenkorb hinzugefügt.</paragraph>
+            </result>
+            <action>
+              <step>Klicken Sie auf
+<emphasis>Einkauf beenden </emphasis>und folgen den Anweisungen auf unserer
+Internetseite.</step>
+            </action>
+            <troubleshooting>
+              <identification>Den falschen
+Artikel dem Warenkorb hinzugefügt?</identification>
+              <action>
+                <step>Klicken Sie
+auf <emphasis>Mein Warenkorb</emphasis>.</step>
+              </action>
+              <action>
+                <step>Klicken
+Sie auf das <emphasis>X </emphasis> des Artikels, der entfernt werden
+soll.</step>
+              </action>
+            </troubleshooting>
+            <troubleshooting>
+              <identification>Die
+falsche Menge eines Artikels dem Warenkorb hinzugefügt?</identification>
+              <action>
+                <step>Klicken Sie auf <emphasis>Mein
+Warenkorb</emphasis>.</step>
+              </action>
+              <action>
+                <step>Geben Sie die gewünschte
+Menge des Artikels in der Spalte <emphasis>Anzahl
+</emphasis>ein.</step>
+              </action>
+            </troubleshooting>
+          </task_body>
+        </task>
+      </chapter>
+      <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0021">
+        <heading>Funktionsprinzip</heading>
+        <descriptive_body>
+          <paragraph>Durch die Drehung des Rotors wird die Raumluft
+umgewälzt. Form und Stellung der Rotorblätter sorgen in Kombination mit der
+Drehbewegung dafür, dass die Luft hinter dem Rotor vor ihn gedrückt wird.
+Dadurch entsteht der Luftstrom, der die Raumluft umwälzt.</paragraph>
+          <paragraph>Die Stärke des Luftstroms kann durch die Rotor-Drehgeschwindigkeit
+geregelt werden. Die Luftstrom-Regelung erfolgt in fünf Stufen.</paragraph>
+          <paragraph>Die Richtung des Luftstroms kann eingestellt werden. Die
+Rotorausrichtung kann fixiert werden oder oszillieren. Bei der Oszillation
+schwenkt der Rotor abwechselnd in beide Richtungen horizontal um 45° aus,
+ausgehend von der Ausgangsstellung.</paragraph>
+          <paragraph>Die Regelung des
+PI-Mod-Fan ist auf drei verschiedenen Wegen möglich, am PI-Mod-Fan, mit der
+Fernbedienung oder durch ein Multimediagerät mit WLAN/Infrarot-Schnittstelle
+und einem der Betriebssysteme, die unter
+<link linktotargetid="Einrichten_descriptive.xml">Einrichten</link> aufgeführt
+sind.</paragraph>
+        </descriptive_body>
+      </descriptive>
+      <descriptive iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" countrycode="DE" langcode="de" nodeid="0006">
+        <heading>Aufstellort</heading>
+        <descriptive_body>
+          <paragraph>Der PI-Mod-Fan
+sollte so aufgestellt werden, dass die Luft im Raum kreisförmig
+zirkuliert.</paragraph>
+          <mediaobject objectwidth="textsize">
+            <image objectname="KreisZirku.svg"/>
+            <caption>Kreisförmige Luftzirkulation im
+Raum</caption>
+          </mediaobject>
+          <paragraph>Beispiele zum Aufstellort:</paragraph>
+          <mediaobject objectwidth="textsize">
+            <image objectname="StromFenster.svg"/>
+            <caption>Frischluft-Zufuhr bei offenem Fenster</caption>
+          </mediaobject>
+          <mediaobject objectwidth="textsize">
+            <image objectname="StromKuehler.svg"/>
+            <caption>Raumkühlung mit
+Klimaanlage</caption>
+          </mediaobject>
+        </descriptive_body>
+      </descriptive>
+    </chapter>
+  </chapter>
+  <chapter xmlns:iirds="http://iirds.tekom.de/iirds" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" countrycode="DE" langcode="de" translate="yes" nodeid="0023">
+    <heading>Inbetriebnahme</heading>
+    <tools countrycode="DE" langcode="de" nodeid="0050" iirds:InformationSubject="http://iirds.tekom.de/iirds/domain/machinery#ListOfTools" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunden" media="PDF CHM" market="de-DE de-CH de-AT">
+      <heading>Werkzeugübersicht</heading>
+      <tools_body>
+        <tool>
+          <name>Phasenprüfer</name>
+        </tool>
+        <tool>
+          <name>Bohrmaschine</name>
+        </tool>
+        <tool>
+          <name>Bohrer</name>
+          <description>Es wird ein Bohrer mit dem Durchmesser 
+<inlinedata><si-value><number>8</number><unit>mm</unit></si-value></inlinedata>
+benötigt.</description>
+        </tool>
+      </tools_body>
+    </tools>
+    <task iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" countrycode="DE" langcode="de" nodeid="0007">
+      <heading>Auspacken</heading>
+      <task_body>
+        <safetyadvice class="warning">
+          <cause>Verletzungen durch scharfen Gegenstand.</cause>
+          <action>
+            <step>Sein Sie
+vorsichtig im Umgang mit dem scharfen
+Gegenstand.</step>
+          </action>
+        </safetyadvice>
+        <actiondescription>
+          <mediaobject objectwidth="textsize">
+            <image objectname="KlebestrTrenn.svg"/>
+            <caption>Position der Klebestreifen</caption>
+          </mediaobject>
+        </actiondescription>
+        <action>
+          <step>Durchtrennen Sie vorsichtig mit einem scharfen Gegenstand die
+Klebestreifen am Kartondeckel.</step>
+        </action>
+        <actiondescription>
+          <mediaobject objectwidth="textsize">
+            <image objectname="DeckAnheb.svg"/>
+            <caption>Kartondeckel öffnen</caption>
+          </mediaobject>
+        </actiondescription>
+        <action>
+          <step>Öffnen Sie den Kartondeckel.</step>
+        </action>
+        <actiondescription>
+          <mediaobject objectwidth="textsize">
+            <image objectname="BetrEnt.svg"/>
+            <caption>Nutzerdokumentation
+entnehmen</caption>
+          </mediaobject>
+        </actiondescription>
+        <action>
+          <step>Entnehmen
+Sie die Nutzerdokumentation und lesen diese vollständig durch.</step>
+        </action>
+        <action>
+          <step>Entnehmen Sie die Garantie und heben diese zusammen mit der
+Betriebsanleitung sicher auf.</step>
+        </action>
+        <actiondescription>
+          <mediaobject objectwidth="textsize">
+            <image objectname="VerDeck.svg"/>
+            <caption>Verpackungsdeckel heraus
+nehmen</caption>
+          </mediaobject>
+        </actiondescription>
+        <action>
+          <step>Heben Sie den
+Verpackungsdeckel aus dem Karton.</step>
+        </action>
+        <action>
+          <step>Entnehmen Sie
+die Bauteile.</step>
+        </action>
+        <actiondescription>
+          <mediaobject objectwidth="textsize">
+            <image objectname="VerMitt.svg"/>
+            <caption>Verpackungs-Mittelteil heraus
+nehmen</caption>
+          </mediaobject>
+        </actiondescription>
+        <action>
+          <step>Heben Sie das
+Verpackungs-Mittelteil aus dem Karton.</step>
+        </action>
+        <action>
+          <step>Entnehmen
+Sie die Bauteile.</step>
+        </action>
+      </task_body>
+    </task>
+    <chapter iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" countrycode="DE" langcode="de" translate="yes" nodeid="0005">
+      <heading>Aufstellen/Montieren</heading>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Rotoreinheit" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0039">
+        <heading>Rotormontage</heading>
+        <toolinfo>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Kopfeinheit</name>
+            <identno>PI-Mod-Fan 1.0a KoEi</identno>
+            <description>Die
+Kopfeinheit wird zusammen mit anderen Komponenten zur Rotoreinheit montiert.
+Die Rotoreinheit enthält die Motoren, die Rotor und Oszillation ermöglichen. An
+der Rotoreinheit befinden sich Schalter, mit denen der PI-Mod-Fan geregelt
+werden kann, sowie die Empfänger für die Fernbedienung. Die Kopfeinheit
+beinhaltet eine Ladestation für die Fernbedienung.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Hinteres Schutzgitter</name>
+            <description>Das hintere Schutzgitter wird
+zusammen mit anderen Komponenten zur Rotoreinheit montiert. Das hintere
+Schutzgitter wird an die Kopfeinheit angesteckt und das vordere Schutzgitter
+auf das hintere Schutzgitter aufgesetzt und mit Schutzgitter-Klemmen befestigt.
+Das Schutzgitter verhindert den Kontakt zum drehenden Rotor und beugt damit
+Personenschäden oder Sachbeschädigungen vor.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>4</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Rotorblätter</name>
+            <identno>PI-Mod-Fan 1.0a RoBl</identno>
+            <description>Die Rotorblätter werden in der Rotorblatt-Halterung befestigt und
+bilden den Rotor.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Rotorblatt-Halterung</name>
+            <identno>PI-Mod-Fan 1.0a RoHa</identno>
+            <description> Die Rotorblätter werden in
+der Rotorblatt-Halterung befestigt und bilden den Rotor.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Vorderes Schutzgitter</name>
+            <identno>PI-Mod-Fan 1.0a VoSc</identno>
+            <description>Das vordere Schutzgitter wird zusammen mit anderen Komponenten zur
+Rotoreinheit montiert. Das vordere Schutzgitter wird auf das hintere
+Schutzgitter aufgesetzt und durch die Schutzgitter-Klemmen befestigt. Das
+Schutzgitter verhindert den Kontakt zum drehenden Rotor und beugt damit
+Personenschäden oder Sachbeschädigungen vor.</description>
+          </part>
+        </toolinfo>
+        <task_body>
+          <action>
+            <step>Stecken Sie das hintere Schutzgitter auf die
+Kopfeinheit.</step>
+          </action>
+          <action>
+            <step>Schieben Sie die Rotorblätter in die
+Öffnungsschlitze der Rotorblatt-Halterung, bis diese mit einem klicken
+einrasten.</step>
+          </action>
+          <result>
+            <paragraph>Der Rotor ist
+zusammengebaut.</paragraph>
+          </result>
+          <action>
+            <step>Stecken Sie den Rotor auf die
+Kopfeinheit.</step>
+          </action>
+          <action>
+            <step>Setzen Sie das vordere Schutzgitter
+auf das hintere Schutzgitter auf und drücken die Schutzgitter-Klemmen
+fest.</step>
+          </action>
+          <actionsequenceend>
+            <result>
+              <paragraph>Die Rotoreinheit ist
+montiert und kann für die <link linktotargetid="Standmontage_task.xml">Standmontage</link> oder
+<link linktotargetid="Wandmontage_task.xml">Wandmontage</link> verwendet
+werden.</paragraph>
+            </result>
+          </actionsequenceend>
+        </task_body>
+      </task>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Standbefestigung" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0044">
+        <heading>Standmontage</heading>
+        <toolinfo>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Standfuß</name>
+            <identno>PI-Mod-Fan 1.0a StFu</identno>
+            <description>Der
+Standfuß verschafft dem PI-Mod-Fan einen soliden Stand durch seinen Durchmesser
+und sein Gewicht, wenn er für den Standbetrieb montiert ist. In der Wandmontage
+dient der Standfuß als Sichtblende für die Wandbefestigung. Am Standfuß
+befindet sich die Buchse für den Anschluss am
+Stromkabel/Steckdosen-Kabel.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Bodenstange</name>
+            <identno>PI-Mod-Fan 1.0a BoSt</identno>
+            <description>Die
+Bodenstange ist in Kombination mit dem Stangenoberteil das Verbindungsstück
+zwischen Kopfeinheit und Standfuß im Standbetrieb. Wird der PI-Mod-Fan an der
+Wand montiert, wird die Wandstange anstelle der Bodenstange
+verwendet.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Stangenoberteil</name>
+            <identno>PI-Mod-Fan 1.0a StOb</identno>
+            <description>Das Stangenoberteil ist in
+Kombination mit Bodenstange oder Wandstange das Verbindungsstück zwischen
+Kopfeinheit und Standfuß. Wird die Stellschraube an Boden-/Wandstange gelöst,
+kann die Höhe des PI-Mod-Fans verstellt werden, in dem das Stangenoberteil in
+die Boden-/Wandstange tiefer eingeschoben oder aus dieser herausgezogen
+wird.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Rotoreinheit</name>
+            <description>Die Rotoreinheit besteht aus mehreren Bauteilen, die unmontiert
+geliefert werden. Der Zusammenbau wird unter
+<link linktotargetid="Rotormontage_task.xml">Rotormontage</link>
+beschrieben.</description>
+          </part>
+        </toolinfo>
+        <prerequisites>
+          <paragraph>Sie
+benötigen die montierte Rotoreinheit.</paragraph>
+        </prerequisites>
+        <task_body>
+          <action>
+            <step>Platzieren Sie den Standfuß auf dem Fußboden.</step>
+          </action>
+          <action>
+            <step>Stecken Sie die Bodenstange in den Standfuß und drehen die
+Stellschraube im Uhrzeigersinn fest.</step>
+          </action>
+          <action>
+            <step>Stecken Sie
+das Stangenoberteil in die Bodenstange, schieben das Stangenoberteil in die
+Bodenstange, bis die gewünschte Höhe erreicht ist und drehen die Stellschraube
+im Uhrzeigersinn fest.</step>
+          </action>
+          <action>
+            <step/>
+          </action>
+          <action>
+            <step>Stecken Sie die Rotoreinheit auf das Stangenoberteil und drehen die
+Stellschraube im Uhrzeigersinn fest.</step>
+          </action>
+          <actionsequenceend>
+            <result>
+              <paragraph>Der PI-Mod-Fan ist für den stehenden Gebrauch
+montiert.</paragraph>
+            </result>
+          </actionsequenceend>
+        </task_body>
+      </task>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Wandventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0049">
+        <heading>Wandmontage</heading>
+        <toolinfo>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Wandbefestigung</name>
+            <identno>PI-Mod-Fan 1.0a WaBe</identno>
+            <description>Die Wandbefestigung
+ermöglicht es, den PI-Mod-Fan sicher an der Wand zu
+befestigen.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Standfuß</name>
+            <identno>PI-Mod-Fan 1.0a StFu</identno>
+            <description>Der Standfuß verschafft dem
+PI-Mod-Fan einen soliden Stand durch seinen Durchmesser und sein Gewicht, wenn
+er für den Standbetrieb montiert ist. In der Wandmontage dient der Standfuß als
+Sichtblende für die Wandbefestigung. Am Standfuß befindet sich die Buchse für
+den Anschluss am Stromkabel/Steckdosen-Kabel.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Wandstange</name>
+            <identno>PI-Mod-Fan 1.0a WaSt</identno>
+            <description>Die
+Wandstange ist in Kombination mit dem Stangenoberteil das Verbindungsstück
+zwischen Kopfeinheit und Standfuß im Betrieb an der Wand. Wird der PI-Mod-Fan
+für den Standbetrieb montiert, wird die Bodenstange anstelle der Wandstange
+verwendet.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <tool>
+            <name>Bohrmaschine</name>
+          </tool>
+          <quantity>
+            <si-value>
+              <number>1 x 8</number>
+              <unit>mm</unit>
+            </si-value>
+          </quantity>
+          <tool>
+            <name>Bohrer</name>
+          </tool>
+        </toolinfo>
+        <!--**** Tool-Liste****-->
+        <!-- <toolinfo><quantity><si-value><number>1</number><unit></unit></si-value></quantity><tool><name>Bohrmaschine</name></tool><quantity><si-value><number>1*8</number><unit>mm</unit></si-value></quantity><tool><name>Bohrer</name></tool><quantity><si-value><number>1</number><unit></unit></si-value></quantity><tool><name>Schraubendreher</name></tool><quantity><si-value><number>4*8</number><unit>mm</unit></si-value></quantity><part><name>Dübel</name></part><quantity><si-value><number>4</number><unit></unit></si-value></quantity><part><name>Trockenbau-Dübel</name></part></toolinfo>
+-->
+        <!--**** Vorraussetzungen ****-->
+        <!-- <prerequisites><paragraph>Bei soliden Wänden aus Beton oder Stein benötigen Sie:</paragraph><list><item><paragraph>Bohrmaschine</paragraph></item><item><paragraph> Bohrer mit dem Durchmesser <inlinedata><si-value><number>8</number><unit>mm </unit></si-value></inlinedata></paragraph></item><item><paragraph>Schraubendreher</paragraph></item></list><paragraph>Bei Wänden aus Trockenbau-Platten benötigen Sie:</paragraph><list><item><paragraph>Schraubendreher</paragraph></item></list></prerequisites>
+-->
+        <task_body>
+          <action>
+            <step>Halten Sie die Wandbefestigung an die gewünschte
+Position und zeichnen mit einem Stift die Bohrpunkte an der Wand
+an.</step>
+          </action>
+          <action>
+            <condition>Bei soliden Wänden aus Beton oder
+Stein.</condition>
+            <step>Bohren Sie mit einem Bohrer mit dem Durchmesser 
+<inlinedata><si-value><number>8</number><unit>mm
+</unit></si-value></inlinedata>Löcher an den angezeichneten Stellen in die
+Wand.</step>
+          </action>
+          <action>
+            <condition>Bei soliden Wänden aus Beton oder
+Stein.</condition>
+            <step>Stecken Sie die Dübel in die Löcher.</step>
+          </action>
+          <action>
+            <condition>Bei Wänden aus Trockenbau-Platten.</condition>
+            <step>Schrauben Sie die Trockenbau-Dübel an den angezeichneten Stellen in die
+Wand.</step>
+          </action>
+          <action>
+            <step>Halten Sie die Wandbefestigung an der Wand
+an, sodass die Dübellöcher in der Wand durch die Löcher der Halterung sichtbar
+sind und Drehen die Schrauben mit einem Schraubendreher fest.</step>
+          </action>
+          <action>
+            <step>Setzen Sie den Standfuß auf die Wandbefestigung auf und drehen
+diesen im Uhrzeigersinn, bis er einrastet.</step>
+          </action>
+          <action>
+            <step>Stecken
+Sie die Wandstange in den Standfuß und drehen die Stellschraube im
+Uhrzeigersinn fest.</step>
+          </action>
+          <action>
+            <step>Stecken Sie das
+Stangenoberteil in die Wandstange, schieben das Stangenoberteil in die
+Wandstange, bis die gewünschte Höhe erreicht ist und drehen die Stellschraube
+im Uhrzeigersinn fest.</step>
+          </action>
+          <!--****<action><step>Ab hier: Reuse von "Bodenmontage" bei Step4 bis Actionsequenceend. </step></action>****-->
+          <actionsequenceend>
+            <result>
+              <paragraph>Der PI-Mod-Fan ist für den Gebrauch an
+der Wand
+montiert.</paragraph>
+            </result>
+          </actionsequenceend>
+        </task_body>
+      </task>
+    </chapter>
+    <chapter iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" countrycode="DE" langcode="de" translate="yes" nodeid="0003">
+      <heading>Anschließen</heading>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Steckdosenkabel" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0004">
+        <heading>An Steckdose</heading>
+        <toolinfo>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Steckdosen-Kabel</name>
+            <identno>PI-Mod-Fan 1.0a StKa</identno>
+            <description>Das Steckdosen-Kabel versorgt den PI-Mod-Fan mit Strom, indem es
+Strom von der Steckdose zum Standfuß leitet.</description>
+          </part>
+        </toolinfo>
+        <prerequisites>
+          <paragraph>Der PI-Mod-Fan muss vollständig montiert
+sein.</paragraph>
+        </prerequisites>
+        <task_body>
+          <action>
+            <step>Entfernen Sie die
+Schutzabdeckung mit dem Stromsymbol, die sich am Standfuß
+befindet.</step>
+          </action>
+          <result>
+            <paragraph>Die Buchse ist
+freigelegt.</paragraph>
+          </result>
+          <note>
+            <paragraph>Bewahren Sie die
+Schutzabdeckung in der Originalverpackung auf, damit Sie nicht verloren
+geht.</paragraph>
+          </note>
+          <action>
+            <step>Stecken Sie den kleineren Stecker in die
+Buchse am Standfuß.</step>
+          </action>
+          <action>
+            <step>Stecken Sie den größeren
+Stecker in die Buchse der Steckdose.</step>
+          </action>
+          <actionsequenceend>
+            <result>
+              <paragraph>Der PI-Mod-Fan ist
+angeschlossen.</paragraph>
+            </result>
+          </actionsequenceend>
+        </task_body>
+      </task>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Stromkabeladapter" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0002">
+        <heading>Am Stromkabel</heading>
+        <toolinfo>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <part>
+            <name>Stromkabel-Adapter</name>
+            <identno>PI-Mod-Fan 1.0a StAd</identno>
+            <description>Der Stromkabel-Adapter wird für den Betrieb an der Wand benötigt,
+wenn der PI-Mod-Fan nicht mit dem Steckdosen-Kabel an der Steckdose betrieben
+werden soll. Der Stromkabel-Adapter wird mit einer elektrischen Leitung des
+Raumes verbunden und wird in den PI-Mod-Fan anstelle des Steckdosen-Kabels
+eingesteckt. Dies ermöglicht eine Verblendung der elektrischen Leitung, um
+Gefahren durch ein frei hängendes Kabel zu vermeiden und es optisch zu
+verdecken.</description>
+          </part>
+          <quantity>
+            <si-value>
+              <number>1</number>
+              <unit/>
+            </si-value>
+          </quantity>
+          <tool>
+            <name>Phasenprüfer</name>
+          </tool>
+        </toolinfo>
+        <prerequisites>
+          <paragraph>Der
+PI-Mod-Fan muss vollständig montiert sein.</paragraph>
+        </prerequisites>
+        <task_body>
+          <safetyadvice class="danger">
+            <cause>Das Stromkabel steht unter
+Spannung.</cause>
+            <consequences>Lebensgefahr durch Stromschlag!</consequences>
+            <action>
+              <step>Öffnen Sie den Sicherungskasten für den Raum, in dem der
+PI-Mod-Fan angeschlossen werden soll.</step>
+            </action>
+            <action>
+              <step>Unterbrechen
+Sie die Stromzufuhr für den Raum.</step>
+            </action>
+            <action>
+              <step>Überprüfen Sie
+mit dem Phasenprüfer, ob das Kabel, das Sie an den PI-Mod-Fan anschließen
+möchten, noch unter Spannung steht.</step>
+            </action>
+            <action>
+              <condition>Das Kabel
+steht noch unter Spannung.</condition>
+              <step>Überprüfen Sie, ob Sie die
+Stromzufuhr für den falschen Raum unterbrochen haben.</step>
+            </action>
+            <action>
+              <condition>Das Kabel steht noch unter Spannung.</condition>
+              <step>Unterbrechen
+Sie notfalls jegliche Stromzufuhr am Sicherungskasten und führen erneut den
+Handlungsschritt <emphasis>3.</emphasis> durch.</step>
+            </action>
+            <action>
+              <condition>Das Kabel steht noch unter Spannung.</condition>
+              <step>Brechen Sie
+das Anschließen ab und lassen den PI-Mod-Fan durch einen Handwerker für
+Elektroinstallationen anschließen.</step>
+            </action>
+          </safetyadvice>
+          <action>
+            <condition>Die Stromzufuhr für den Raum ist unterbrochen.</condition>
+            <step>Isolieren Sie das Stromkabel auf <inlinedata><si-value>
+<number>10</number><unit>mm</unit></si-value></inlinedata> ab.</step>
+          </action>
+          <result>
+            <paragraph>Die drei Leiter des Stromkabels sind
+sichtbar.</paragraph>
+          </result>
+          <safetyadvice class="danger">
+            <cause>Die Farben
+der einzelnen Leiter des Stromkabels stimmen nicht mit den Farben am
+Stromkabel-Adapter überein.</cause>
+            <consequences>Lebensgefahr durch
+Stromschlag!</consequences>
+            <action>
+              <step>Brechen Sie das Anschließen ab und
+lassen den PI-Mod-Fan durch einen Handwerker für Elektroinstallationen
+anschließen.</step>
+            </action>
+          </safetyadvice>
+          <action>
+            <condition>Die Farben bei
+den Leitern und dem Stromkabel-Adapter stimmen überein.</condition>
+            <step>Isolieren Sie die Leiter des Stromkabels auf <inlinedata><si-value>
+<number>5</number><unit>mm</unit></si-value></inlinedata> ab.</step>
+          </action>
+          <action>
+            <step>Drücken Sie die Klemme des Stromkabel-Adapters zusammen und
+schieben die Leiter des Stromkabels in die farblich zugehörigen Öffnungen des
+Stromkabel-Adapters.</step>
+          </action>
+          <!--****<action><step>Ab hier: Reuse von "An Steckdose" ab Step1</step></action>****-->
+        </task_body>
+      </task>
+    </chapter>
+    <chapter>
+      <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Software" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0018">
+        <heading>Einrichten</heading>
+        <descriptive_body>
+          <paragraph>Es gibt drei verschiedene Möglichkeiten den PI-Mod-Fan zu
+bedienen.</paragraph>
+          <list>
+            <listintro>Bedienmöglichkeiten für den
+PI-Mod-Fan:</listintro>
+            <item>
+              <paragraph>Am PI-Mod-Fan</paragraph>
+            </item>
+            <item>
+              <paragraph>Durch Fernbedienung</paragraph>
+            </item>
+            <item>
+              <paragraph>Durch
+Multimediagerät mit WLAN/Infrarot-Schnittstelle</paragraph>
+            </item>
+          </list>
+          <paragraph>Die Bedienung am PI-Mod-Fan und mit der Fernbedienung müssen nicht
+eingerichtet werden. Möchten Sie den PI-Mod-Fan durch ein Multimediagerät
+bedienen, muss auf dem Multimediagerät die PI-Mod-Fan-Software installiert
+werden. Das Multimediagerät muss über WLAN oder eine Infrarot-Schnittstelle
+verfügen, um mit dem PI-Mod-Fan kommunizieren zu können.</paragraph>
+          <list>
+            <listintro>Die folgenden Betriebssysteme werden durch die PI-Mod-Fan-Software
+unterstützt:</listintro>
+            <item>
+              <paragraph>Betriebssystem A</paragraph>
+            </item>
+            <item>
+              <paragraph>Betriebssystem B</paragraph>
+            </item>
+            <item>
+              <paragraph>Betriebssystem C</paragraph>
+            </item>
+          </list>
+          <paragraph>Die
+PI-Mod-Fan-Software kann auf unserer Internetseite herunter geladen werden:
+<link linktotargetid="http//:www.pi-mod.de/downloads/pi-mod-fan/1-0a">http//:www.pi-mod.de/downloads/pi-mod-fan/1-0a</link></paragraph>
+        </descriptive_body>
+      </descriptive>
+      <chapter>
+        <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Software" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0013">
+          <heading>Betriebssystem A</heading>
+          <prerequisites>
+            <paragraph>Multimediagerät mit WLAN/Infrarotschnittstelle mit
+Betriebssystem A.</paragraph>
+            <paragraph>PI-Mod-Fan-Software. Herunter geladen
+von unserer Internetseite:
+<link linktotargetid="http//:www.pi-mod.de/downloads/pi-mod-fan/1-0a">http//:www.pi-mod.de/downloads/pi-mod-fan/1-0a</link></paragraph>
+          </prerequisites>
+          <task_body>
+            <action>
+              <step>Starten Sie die PI-Mod-Fan-Software auf Ihrem
+Multimediagerät.</step>
+            </action>
+            <result>
+              <paragraph>Der Installationsassistent
+startet automatisch.</paragraph>
+            </result>
+            <action>
+              <step>Lesen Sie sich unsere
+Allgemeine Geschäftsbedingung (AGB) durch.</step>
+            </action>
+            <action>
+              <condition>Sie sind mit der AGB einverstanden.</condition>
+              <step>Wählen Sie die
+Schaltfläche <emphasis>Akzeptieren</emphasis> aus.</step>
+            </action>
+            <action>
+              <condition>Die AGB enthält Konditionen, die Sie ablehnen.</condition>
+              <step>Wählen Sie die Schaltfläche <emphasis>Ablehnen</emphasis>
+aus.</step>
+            </action>
+            <result>
+              <paragraph>Die Installation wird abgebrochen. Die
+Installation der PI-Mod-Software ist nicht möglich, wenn die AGB abgelehnt
+wird.</paragraph>
+            </result>
+            <actiondescription>
+              <paragraph>Im nächsten
+Handlungsschritt wird die Verbindungsart ausgewählt. Es stehen WLAN und
+Infrarot zur Auswahl.</paragraph>
+            </actiondescription>
+            <action>
+              <step>Wählen Sie
+die gewünschte Verbindungsart zum PI-Mod-Fan aus.</step>
+            </action>
+            <action>
+              <condition>Die Verbindungsart wurde ausgewählt.</condition>
+              <step>Wählen Sie die
+Schaltfläche <emphasis>Weiter</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die ausgewählte Verbindungsart und Ihre Akzeptanz der AGB wird
+angezeigt.</paragraph>
+            </result>
+            <action>
+              <step>Wählen Sie die Schaltfläche
+<emphasis>Installation starten</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die PI-Mod-Fan-Software wird installiert.</paragraph>
+            </result>
+            <action>
+              <condition>Der Installationsassistent zeigt an, dass die
+PI-Mod-Fan-Software erfolgreich installiert wurde.</condition>
+              <step>Wählen Sie
+die Schaltfläche <emphasis>Fertigstellen</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die Installation der PI-Mod-Fan-Software ist abgeschlossen.
+Der PI-Mod-Fan kann jetzt durch Ihr Multimediagerät geregelt
+werden.</paragraph>
+            </result>
+            <troubleshooting>
+              <identification>Sie möchten die
+Verbindungsart ändern.</identification>
+              <problemdescription>Die falsche
+Verbindungsart wurde ausgewählt.</problemdescription>
+              <action>
+                <step>Wählen Sie
+die Schaltfläche <emphasis>Zurück</emphasis> aus.</step>
+              </action>
+              <action>
+                <step>Wählen Sie die gewünschte Verbindungsart zum PI-Mod-Fan
+aus.</step>
+              </action>
+              <action>
+                <condition>Die Verbindungsart wurde
+ausgewählt.</condition>
+                <step>Wählen Sie die Schaltfläche
+<emphasis>Weiter</emphasis> aus.</step>
+              </action>
+            </troubleshooting>
+            <troubleshooting>
+              <identification>Sie möchten die Konditionen der AGB nicht
+Akzeptieren.</identification>
+              <action>
+                <step>Wählen Sie die Schaltfläche
+<emphasis>Installation abbrechen</emphasis>
+aus.</step>
+              </action>
+            </troubleshooting>
+            <troubleshooting>
+              <identification>Sie
+möchten die PI-Mod-Software erfolgreich auf Ihrem Multimediagerät mit dem
+Betriebssystem A installieren.</identification>
+              <problemdescription>Die
+Installation der PI-Mod-Fan-Software ist fehlgeschlagen.</problemdescription>
+              <action>
+                <step>Aktualisieren Sie das Betriebssystem Ihres Multimediagerätes auf
+den neuesten Stand.</step>
+              </action>
+              <action>
+                <step>Führen Sie die
+Handlungsschritte des Abschnittes
+<link linktotargetid="Betriebssystem_task.xml">Betriebssystem A</link>
+durch.</step>
+              </action>
+            </troubleshooting>
+          </task_body>
+        </task>
+        <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Software" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0014">
+          <heading>Betriebssystem B</heading>
+          <prerequisites>
+            <paragraph>Multimediagerät mit WLAN/Infrarotschnittstelle mit
+Betriebssystem B.</paragraph>
+            <paragraph>PI-Mod-Fan-Software. Herunter geladen
+von unserer Internetseite:
+<link linktotargetid="http//:www.pi-mod.de/downloads/pi-mod-fan/1-0a">http//:www.pi-mod.de/downloads/pi-mod-fan/1-0a</link></paragraph>
+          </prerequisites>
+          <task_body>
+            <action>
+              <step>Starten Sie die PI-Mod-Fan-Software auf Ihrem
+Multimediagerät.</step>
+            </action>
+            <result>
+              <paragraph>Der Installationsassistent
+startet automatisch.</paragraph>
+            </result>
+            <action>
+              <step>Lesen Sie sich unsere
+Allgemeine Geschäftsbedingung (AGB) durch.</step>
+            </action>
+            <action>
+              <condition>Sie sind mit der AGB einverstanden.</condition>
+              <step>Wählen Sie die
+Schaltfläche <emphasis>Akzeptieren</emphasis> aus.</step>
+            </action>
+            <action>
+              <condition>Die AGB enthält Konditionen, die Sie ablehnen.</condition>
+              <step>Wählen Sie die Schaltfläche <emphasis>Ablehnen</emphasis>
+aus.</step>
+            </action>
+            <result>
+              <paragraph>Die Installation wird abgebrochen. Die
+Installation der PI-Mod-Software ist nicht möglich, wenn die AGB abgelehnt
+wird.</paragraph>
+            </result>
+            <actiondescription>
+              <paragraph>Im nächsten
+Handlungsschritt wird die Verbindungsart ausgewählt. Es stehen WLAN und
+Infrarot zur Auswahl.</paragraph>
+            </actiondescription>
+            <action>
+              <step>Wählen Sie
+die gewünschte Verbindungsart zum PI-Mod-Fan aus.</step>
+            </action>
+            <action>
+              <condition>Die Verbindungsart wurde ausgewählt.</condition>
+              <step>Wählen Sie die
+Schaltfläche <emphasis>Weiter</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die ausgewählte Verbindungsart und Ihre Akzeptanz der AGB wird
+angezeigt.</paragraph>
+            </result>
+            <action>
+              <step>Wählen Sie die Schaltfläche
+<emphasis>Installation starten</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die PI-Mod-Fan-Software wird installiert.</paragraph>
+            </result>
+            <action>
+              <condition>Der Installationsassistent zeigt an, dass die
+PI-Mod-Fan-Software erfolgreich installiert wurde.</condition>
+              <step>Wählen Sie
+die Schaltfläche <emphasis>Fertigstellen</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die Installation der PI-Mod-Fan-Software ist abgeschlossen.
+Der PI-Mod-Fan kann jetzt durch Ihr Multimediagerät geregelt
+werden.</paragraph>
+            </result>
+            <troubleshooting>
+              <identification>Sie möchten die
+Verbindungsart ändern.</identification>
+              <problemdescription>Die falsche
+Verbindungsart wurde ausgewählt.</problemdescription>
+              <action>
+                <step>Wählen Sie
+die Schaltfläche <emphasis>Zurück</emphasis> aus.</step>
+              </action>
+              <action>
+                <step>Wählen Sie die gewünschte Verbindungsart zum PI-Mod-Fan
+aus.</step>
+              </action>
+              <action>
+                <condition>Die Verbindungsart wurde
+ausgewählt.</condition>
+                <step>Wählen Sie die Schaltfläche
+<emphasis>Weiter</emphasis> aus.</step>
+              </action>
+            </troubleshooting>
+            <troubleshooting>
+              <identification>Sie möchten die Konditionen der AGB nicht
+Akzeptieren.</identification>
+              <action>
+                <step>Wählen Sie die Schaltfläche
+<emphasis>Installation abbrechen</emphasis>
+aus.</step>
+              </action>
+            </troubleshooting>
+            <troubleshooting>
+              <identification>Sie
+möchten die PI-Mod-Software erfolgreich auf Ihrem Multimediagerät mit dem
+Betriebssystem B installieren.</identification>
+              <problemdescription>Die
+Installation der PI-Mod-Fan-Software ist fehlgeschlagen.</problemdescription>
+              <action>
+                <step>Aktualisieren Sie das Betriebssystem Ihres Multimediagerätes auf
+den neuesten Stand.</step>
+              </action>
+              <action>
+                <step>Führen Sie die
+Handlungsschritte des Abschnittes
+<link linktotargetid="BetriebssystemB_task.xml">Betriebssystem B</link>
+durch.</step>
+              </action>
+            </troubleshooting>
+          </task_body>
+        </task>
+        <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Software" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0015">
+          <heading>Betriebssystem C</heading>
+          <prerequisites>
+            <paragraph>Multimediagerät mit WLAN/Infrarotschnittstelle mit
+Betriebssystem C.</paragraph>
+            <paragraph>PI-Mod-Fan-Software. Herunter geladen
+von unserer Internetseite:
+<link linktotargetid="http//:www.pi-mod.de/downloads/pi-mod-fan/1-0a">http//:www.pi-mod.de/downloads/pi-mod-fan/1-0a</link></paragraph>
+          </prerequisites>
+          <task_body>
+            <action>
+              <step>Starten Sie die PI-Mod-Fan-Software auf Ihrem
+Multimediagerät.</step>
+            </action>
+            <result>
+              <paragraph>Der Installationsassistent
+startet automatisch.</paragraph>
+            </result>
+            <action>
+              <step>Lesen Sie sich unsere
+Allgemeine Geschäftsbedingung (AGB) durch.</step>
+            </action>
+            <action>
+              <condition>Sie sind mit der AGB einverstanden.</condition>
+              <step>Wählen Sie die
+Schaltfläche <emphasis>Akzeptieren</emphasis> aus.</step>
+            </action>
+            <action>
+              <condition>Die AGB enthält Konditionen, die Sie ablehnen.</condition>
+              <step>Wählen Sie die Schaltfläche <emphasis>Ablehnen</emphasis>
+aus.</step>
+            </action>
+            <result>
+              <paragraph>Die Installation wird abgebrochen. Die
+Installation der PI-Mod-Software ist nicht möglich, wenn die AGB abgelehnt
+wird.</paragraph>
+            </result>
+            <actiondescription>
+              <paragraph>Im nächsten
+Handlungsschritt wird die Verbindungsart ausgewählt. Es stehen WLAN und
+Infrarot zur Auswahl.</paragraph>
+            </actiondescription>
+            <action>
+              <step>Wählen Sie
+die gewünschte Verbindungsart zum PI-Mod-Fan aus.</step>
+            </action>
+            <action>
+              <condition>Die Verbindungsart wurde ausgewählt.</condition>
+              <step>Wählen Sie die
+Schaltfläche <emphasis>Weiter</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die ausgewählte Verbindungsart und Ihre Akzeptanz der AGB wird
+angezeigt.</paragraph>
+            </result>
+            <action>
+              <step>Wählen Sie die Schaltfläche
+<emphasis>Installation starten</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die PI-Mod-Fan-Software wird installiert.</paragraph>
+            </result>
+            <action>
+              <condition>Der Installationsassistent zeigt an, dass die
+PI-Mod-Fan-Software erfolgreich installiert wurde.</condition>
+              <step>Wählen Sie
+die Schaltfläche <emphasis>Fertigstellen</emphasis> aus.</step>
+            </action>
+            <result>
+              <paragraph>Die Installation der PI-Mod-Fan-Software ist abgeschlossen.
+Der PI-Mod-Fan kann jetzt durch Ihr Multimediagerät geregelt
+werden.</paragraph>
+            </result>
+            <troubleshooting>
+              <identification>Sie möchten die
+Verbindungsart ändern.</identification>
+              <problemdescription>Die falsche
+Verbindungsart wurde ausgewählt.</problemdescription>
+              <action>
+                <step>Wählen Sie
+die Schaltfläche <emphasis>Zurück</emphasis> aus.</step>
+              </action>
+              <action>
+                <step>Wählen Sie die gewünschte Verbindungsart zum PI-Mod-Fan
+aus.</step>
+              </action>
+              <action>
+                <condition>Die Verbindungsart wurde
+ausgewählt.</condition>
+                <step>Wählen Sie die Schaltfläche
+<emphasis>Weiter</emphasis> aus.</step>
+              </action>
+            </troubleshooting>
+            <troubleshooting>
+              <identification>Sie möchten die Konditionen der AGB nicht
+Akzeptieren.</identification>
+              <action>
+                <step>Wählen Sie die Schaltfläche
+<emphasis>Installation abbrechen</emphasis>
+aus.</step>
+              </action>
+            </troubleshooting>
+            <troubleshooting>
+              <identification>Sie
+möchten die PI-Mod-Software erfolgreich auf Ihrem Multimediagerät mit dem
+Betriebssystem C installieren.</identification>
+              <problemdescription>Die
+Installation der PI-Mod-Fan-Software ist fehlgeschlagen.</problemdescription>
+              <action>
+                <step>Aktualisieren Sie das Betriebssystem Ihres Multimediagerätes auf
+den neuesten Stand.</step>
+              </action>
+              <action>
+                <step>Führen Sie die
+Handlungsschritte des Abschnittes
+<link linktotargetid="BetriebssystemC_task.xml">Betriebssystem C</link>
+durch.</step>
+              </action>
+            </troubleshooting>
+          </task_body>
+        </task>
+      </chapter>
+    </chapter>
+  </chapter>
+  <chapter xmlns:iirds="http://iirds.tekom.de/iirds" iirds:Component="http://pi-fan.de/component#Ventilator" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" langcode="de" countrycode="DE" translate="yes" nodeid="0012">
+    <heading>Betrieb</heading>
+    <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0038">
+      <heading>Regelung</heading>
+      <descriptive_body>
+        <paragraph>Es gibt drei verschiedene Möglichkeiten den PI-Mod-Fan zu
+bedienen.</paragraph>
+        <list>
+          <listintro>Bedienmöglichkeiten für den
+PI-Mod-Fan:</listintro>
+          <item>
+            <paragraph>Am PI-Mod-Fan</paragraph>
+          </item>
+          <item>
+            <paragraph>Fernbedienung</paragraph>
+          </item>
+          <item>
+            <paragraph>Multimediagerät mit
+WLAN/Infrarot-Schnittstelle</paragraph>
+          </item>
+        </list>
+        <paragraph>Um den
+PI-Mod-Fan mit einem Multimediagerät bedienen zu können, muss die
+PI-Mod-Fan-Software auf dem Multimediagerät installiert sein, siehe
+<link linktotargetid="Einrichten_descriptive.xml">Einrichten</link>.</paragraph>
+      </descriptive_body>
+      <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0027">
+        <heading>Luftstrom</heading>
+        <descriptive_body>
+          <paragraph>Die Stärke des Luftstroms kann durch die Rotor-Drehgeschwindigkeit
+geregelt werden. Die Luftstrom-Regelung erfolgt in fünf
+Stufen.</paragraph>
+        </descriptive_body>
+        <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0030">
+          <heading>PI-Mod-Fan</heading>
+          <descriptive_body>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuAAFa.svg"/>
+              <caption>Luftstrom-Schalter "An/Aus"</caption>
+            </mediaobject>
+            <paragraph>Der
+Luftstrom wird mit dem Schalter "An/Aus" angeschaltet oder
+ausgeschaltet.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuPlFa.svg"/>
+              <caption>Luftstrom-Schalter "Plus"</caption>
+            </mediaobject>
+            <paragraph>Die Stärke
+des Luftstroms wird mit dem Schalter "Plus" erhöht.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuMiFa.svg"/>
+              <caption>Luftstrom-Schalter "Minus"</caption>
+            </mediaobject>
+            <paragraph>Die
+Stärke des Luftstroms wird mit dem Schalter "Minus" abgeschwächt.</paragraph>
+            <paragraph>Die Stärke des Luftstroms kann in fünf Stufen eingestellt werden.
+Die eingestellte Stufe wird durch die fünf Leuchtdioden
+dargestellt.</paragraph>
+          </descriptive_body>
+        </descriptive>
+        <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Fernbedienung" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0028">
+          <heading>Fernbedienung</heading>
+          <descriptive_body>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuAAFe.svg"/>
+              <caption>Luftstrom-Schalter
+"An/Aus"</caption>
+            </mediaobject>
+            <paragraph>Der Luftstrom wird mit dem Schalter
+"An/Aus" angeschaltet oder ausgeschaltet.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuPlFe.svg"/>
+              <caption>Luftstrom-Schalter "Plus"</caption>
+            </mediaobject>
+            <paragraph>Die Stärke
+des Luftstroms wird mit dem Schalter "Plus" erhöht.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuMiFe.svg"/>
+              <caption>Luftstrom-Schalter "Minus"</caption>
+            </mediaobject>
+            <paragraph>Die
+Stärke des Luftstroms wird mit dem Schalter "Minus" abgeschwächt.</paragraph>
+            <paragraph>Die Stärke des Luftstroms kann in fünf Stufen eingestellt werden.
+Die eingestellte Stufe wird durch die fünf Leuchtdioden
+dargestellt.</paragraph>
+          </descriptive_body>
+        </descriptive>
+        <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0029">
+          <heading>Multimediagerät</heading>
+          <descriptive_body>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuAAMu.svg"/>
+              <caption>Luftstrom-Schalter
+"An/Aus"</caption>
+            </mediaobject>
+            <paragraph>Der Luftstrom wird mit dem Schalter
+"An/Aus" angeschaltet oder ausgeschaltet.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuPlMu.svg"/>
+              <caption>Luftstrom-Schalter "Plus"</caption>
+            </mediaobject>
+            <paragraph>Die Stärke
+des Luftstroms wird mit dem Schalter "Plus" erhöht.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="LuMiMu.svg"/>
+              <caption>Luftstrom-Schalter "Minus"</caption>
+            </mediaobject>
+            <paragraph>Die
+Stärke des Luftstroms wird mit dem Schalter "Minus" abgeschwächt.</paragraph>
+            <paragraph>Die Stärke des Luftstroms kann in fünf Stufen eingestellt werden.
+Die eingestellte Stufe wird durch die fünf Leuchtdioden
+dargestellt.</paragraph>
+          </descriptive_body>
+        </descriptive>
+      </descriptive>
+      <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0031">
+        <heading>Oszillation</heading>
+        <descriptive_body>
+          <paragraph>Die Richtung des Luftstroms kann eingestellt werden. Die
+Rotorausrichtung kann fixiert werden oder oszillieren. Bei der Oszillation
+schwenkt der Rotor abwechselnd in beide Richtungen horizontal um 45° aus,
+ausgehend von der Ausgangsstellung.</paragraph>
+        </descriptive_body>
+        <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0034">
+          <heading>PI-Mod-Fan</heading>
+          <descriptive_body>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsAAFa.svg"/>
+              <caption>Oszillationsschalter "An/Aus"</caption>
+            </mediaobject>
+            <paragraph>Die
+Oszillation wird mit dem Schalter angeschaltet oder ausgeschaltet. Wird die
+Oszillation ausgeschaltet, schwenkt der Rotor zurück in die
+Ausgangsstellung.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsPlFa.svg"/>
+              <caption>Oszillationsschalter
+"Plus"</caption>
+            </mediaobject>
+            <paragraph>Die Geschwindigkeit der Oszillation
+wird mit dem Schalter "Plus" erhöht.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsMiFa.svg"/>
+              <caption>Oszillationsschalter "Minus"</caption>
+            </mediaobject>
+            <paragraph>Die
+Geschwindigkeit der Oszillation wird mit dem Schalter "Minus"
+gesenkt.</paragraph>
+            <paragraph>Die Geschwindigkeit kann in drei Stufen
+eingestellt werden. Die eingestellte Stufe wird durch die drei Leuchtdioden
+dargestellt.</paragraph>
+          </descriptive_body>
+        </descriptive>
+        <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Fernbedienung" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0032">
+          <heading>Fernbedienung</heading>
+          <descriptive_body>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsAAFe.svg"/>
+              <caption>Oszillationsschalter
+"An/Aus"</caption>
+            </mediaobject>
+            <paragraph>Die Oszillation wird mit dem
+Schalter angeschaltet oder ausgeschaltet. Wird die Oszillation ausgeschaltet,
+schwenkt der Rotor zurück in die Ausgangsstellung.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsPlFe.svg"/>
+              <caption>Oszillationsschalter "Plus"</caption>
+            </mediaobject>
+            <paragraph>Die
+Geschwindigkeit der Oszillation wird mit dem Schalter "Plus"
+erhöht.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsMiFe.svg"/>
+              <caption>Oszillationsschalter
+"Minus"</caption>
+            </mediaobject>
+            <paragraph>Die Geschwindigkeit der Oszillation
+wird mit dem Schalter "Minus" gesenkt.</paragraph>
+            <paragraph>Die
+Geschwindigkeit kann in drei Stufen eingestellt werden. Die eingestellte Stufe
+wird durch die drei Leuchtdioden
+dargestellt.</paragraph>
+          </descriptive_body>
+        </descriptive>
+        <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0033">
+          <heading>Multimediagerät</heading>
+          <descriptive_body>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsAAMu.svg"/>
+              <caption>Oszillationsschalter
+"An/Aus"</caption>
+            </mediaobject>
+            <paragraph>Die Oszillation wird mit dem
+Schalter angeschaltet oder ausgeschaltet. Wird die Oszillation ausgeschaltet,
+schwenkt der Rotor zurück in die Ausgangsstellung.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsPlMu.svg"/>
+              <caption>Oszillationsschalter "Plus"</caption>
+            </mediaobject>
+            <paragraph>Die
+Geschwindigkeit der Oszillation wird mit dem Schalter "Plus"
+erhöht.</paragraph>
+            <mediaobject objectwidth="textsize">
+              <image objectname="OsMiMu.svg"/>
+              <caption>Oszillationsschalter
+"Minus"</caption>
+            </mediaobject>
+            <paragraph>Die Geschwindigkeit der Oszillation
+wird mit dem Schalter "Minus" gesenkt.</paragraph>
+            <paragraph>Die
+Geschwindigkeit kann in drei Stufen eingestellt werden. Die eingestellte Stufe
+wird durch die drei Leuchtdioden
+dargestellt.</paragraph>
+          </descriptive_body>
+        </descriptive>
+      </descriptive>
+    </descriptive>
+    <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Maintenance" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0035">
+      <heading>Pflege</heading>
+      <descriptive_body>
+        <safetyadvice class="danger">
+          <cause>Trennen Sie den PI-Mod-Fan vor der
+Reinigung oder Schmierung von der Stromquelle!</cause>
+          <consequences>Gefahr
+durch Stromschlag!</consequences>
+          <action>
+            <step>Trennen Sie den PI-Mod-Fan von
+der Stromquelle.</step>
+          </action>
+        </safetyadvice>
+        <paragraph>Um einen
+einwandfreien Betrieb des PI-Mod-Fans zu gewährleisten, sollte er in
+regelmäßigen Abständen gesäubert und geschmiert werden. Die Reinigungs- und
+Schmierintervalle finden Sie unter
+<link linktotargetid="Pflegeintervalle_taskintervals.xml">Pflegeintervalle</link>.
+Das benötigte Schmiermittel finden Sie unter
+<link linktotargetid="Schmiermittel_lubricant.xml">Schmiermittel</link>.</paragraph>
+        <paragraph> Der PI-Mod-Fan ist mit einem weichen Lappen zu reinigen, um die
+Oberfläche nicht zu zerkratzen. Der Lappen darf angefeuchtet sein, aber nicht
+nass. Wringen Sie den Lappen vor der Reinigung gründlich aus. Es darf für die
+Reinigung ein mildes Reinigungsmittel verwendet
+werden.</paragraph>
+      </descriptive_body>
+    </descriptive>
+    <chapter>
+      <taskintervals countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Maintenance" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0036">
+        <heading>Pflegeintervalle</heading>
+        <taskintervals_body>
+          <taskinterval customer-interval="1 Monat">Allgemeine
+Reinigung des PI-Mod-Fans.</taskinterval>
+          <taskinterval customer-interval="3 Monate">Reinigung des Rotors.</taskinterval>
+          <taskinterval customer-interval="3 Monate">Schmieren des Rotors.</taskinterval>
+          <taskinterval>Schmieren beweglicher
+Teile.</taskinterval>
+        </taskintervals_body>
+      </taskintervals>
+      <lubrication countrycode="DE" langcode="de" iirds:InformationSubject="http://iirds.tekom.de/iirds/domain/machinery#LubricationPlan" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Maintenance" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0042">
+        <heading>Schmiermittel</heading>
+        <lubrication_body>
+          <lubricant>
+            <name>PI-Mod-Fan-Schmiermittel</name>
+            <identno>PI-Mod-Fan 1.0a ScMi</identno>
+            <medium>Silikonschmiermittel</medium>
+            <description>Das Schmiermittel besteht aus einer Silikonbasis. Im Gegensatz zu
+Schmiermitteln auf Mineralöl-Basis, verharzen Silikon-Schmiermittel nicht. Die
+daraus resultierende geringere Verunreinigung bringt einen niedrigeren
+Reinigungsbedarf mit
+sich.</description>
+          </lubricant>
+        </lubrication_body>
+      </lubrication>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Maintenance" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0001">
+        <heading>Allgemeine Reinigung</heading>
+        <task_body>
+          <safetyadvice class="danger">
+            <cause>Trennen Sie den PI-Mod-Fan vor
+der Reinigung von der Stromquelle!</cause>
+            <consequences>Gefahr durch
+Stromschlag!</consequences>
+            <action>
+              <step>Trennen Sie den PI-Mod-Fan von der
+Stromquelle.</step>
+            </action>
+          </safetyadvice>
+          <action>
+            <condition>Der PI-Mod-Fan
+ist von der Stromquelle getrennt und Sie benutzen einen weichen, leicht
+angefeuchteten Lappen.</condition>
+            <step>Reinigen Sie die Oberfläche des
+PI-Mod-Fans.</step>
+          </action>
+        </task_body>
+      </task>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Rotoreinheit" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Maintenance" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0040">
+        <heading>Rotor reinigen</heading>
+        <task_body>
+          <safetyadvice class="danger">
+            <cause>Trennen Sie den PI-Mod-Fan vor der
+Reinigung von der Stromquelle!</cause>
+            <consequences>Gefahr durch
+Stromschlag!</consequences>
+            <action>
+              <step>Trennen Sie den PI-Mod-Fan von der
+Stromquelle.</step>
+            </action>
+          </safetyadvice>
+          <action>
+            <condition>Der PI-Mod-Fan
+ist von der Stromquelle getrennt.</condition>
+            <step>Lösen Sie die
+Schutzgitter-Klemmen.</step>
+          </action>
+          <action>
+            <step>Nehmen Sie das vordere
+Schutzgitter ab.</step>
+          </action>
+          <action>
+            <step>Ziehen Sie den Rotor von der
+Kopfeinheit ab.</step>
+          </action>
+          <action>
+            <step>Lösen Sie die Rotorblätter aus der
+Rotorblatt-Halterung</step>
+          </action>
+          <action>
+            <step>Nehmen Sie das hintere
+Schutzgitter von der Kopfeinheit ab.</step>
+          </action>
+          <action>
+            <condition>Sie
+benutzen einen weichen, leicht angefeuchteten Lappen.</condition>
+            <step>Reinigen
+Sie die Bauteile.</step>
+          </action>
+          <result>
+            <paragraph>Die Rotorreinigung ist
+abgeschlossen.</paragraph>
+          </result>
+          <note>
+            <paragraph>Schmieren Sie den Rotor
+nach der Reinigung, siehe <link linktotargetid="RotorSchmieren_task.xml">Rotor
+schmieren</link>.</paragraph>
+          </note>
+          <outlook>
+            <paragraph>Montieren Sie den Rotor
+wie in <link linktotargetid="Rotormontage_task.xml">Rotormontage</link>
+beschrieben.</paragraph>
+          </outlook>
+        </task_body>
+      </task>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Rotoreinheit" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Maintenance" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0041">
+        <heading>Rotor schmieren</heading>
+        <lubricantinfo>
+          <quantity>
+            <si-value>
+              <number>0,5</number>
+              <unit>ml</unit>
+            </si-value>
+          </quantity>
+          <lubricant>
+            <name>PI-Mod-Fan-Schmiermittel</name>
+            <identno>PI-Mod-Fan 1.0a
+ScMi</identno>
+            <medium>Silikonschmiermittel</medium>
+            <description>Das
+Schmiermittel besteht aus einer Silikonbasis. Im Gegensatz zu Schmiermitteln
+auf Mineralöl-Basis, verharzen Silikon-Schmiermittel nicht. Die daraus
+resultierende geringere Verunreinigung bringt einen niedrigeren
+Reinigungsbedarf mit sich.</description>
+          </lubricant>
+        </lubricantinfo>
+        <task_body>
+          <safetyadvice class="danger">
+            <cause>Trennen Sie den PI-Mod-Fan vor dem
+Schmieren von der Stromquelle!</cause>
+            <consequences>Gefahr durch
+Stromschlag!</consequences>
+            <action>
+              <step>Trennen Sie den PI-Mod-Fan von der
+Stromquelle.</step>
+            </action>
+          </safetyadvice>
+          <action>
+            <condition>Der PI-Mod-Fan
+ist von der Stromquelle getrennt.</condition>
+            <step>Lösen Sie die
+Schutzgitter-Klemmen.</step>
+          </action>
+          <action>
+            <step>Nehmen Sie das vordere
+Schutzgitter ab.</step>
+          </action>
+          <action>
+            <step>Ziehen Sie den Rotor von der
+Kopfeinheit ab.</step>
+          </action>
+          <action>
+            <step>Sprühen Sie jeweils eine halbe
+Sekunde Schmiermittel in die beiden Öffnungen am Kopfteil, die mit dem Ölsymbol
+<inlinemediaobject objectname="OelSym.svg"/> versehen sind.</step>
+          </action>
+          <result>
+            <paragraph>Die Rotorschmierung ist abgeschlossen.</paragraph>
+          </result>
+          <outlook>
+            <paragraph>Montieren Sie den Rotor wie in
+<link linktotargetid="Rotormontage_task.xml">Rotormontage</link>
+beschrieben.</paragraph>
+          </outlook>
+        </task_body>
+      </task>
+      <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Maintenance" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0016">
+        <heading>Bewegliche Teile schmieren</heading>
+        <lubricantinfo>
+          <quantity>
+            <si-value>
+              <number>0,5</number>
+              <unit>ml</unit>
+            </si-value>
+          </quantity>
+          <lubricant>
+            <name>PI-Mod-Fan-Schmiermittel</name>
+            <identno>PI-Mod-Fan 1.0a ScMi</identno>
+            <medium>Silikonschmiermittel</medium>
+            <description>Das Schmiermittel dient dazu,
+die Reibung zwischen beweglichen Teilen zu verringern und mindert dadurch den
+Verschleiß. Das Schmiermittel besteht aus einer Silikonbasis. Im Gegensatz zu
+Schmiermitteln auf Mineralöl-Basis, verharzen Silikon-Schmiermittel nicht. Die
+daraus resultierende geringere Verunreinigung bringt einen niedrigeren
+Reinigungsbedarf mit sich.</description>
+          </lubricant>
+        </lubricantinfo>
+        <task_body>
+          <safetyadvice class="danger">
+            <cause>Trennen Sie den PI-Mod-Fan vor dem
+Schmieren von der Stromquelle!</cause>
+            <consequences>Gefahr durch
+Stromschlag!</consequences>
+            <action>
+              <step>Trennen Sie den PI-Mod-Fan von der
+Stromquelle.</step>
+            </action>
+          </safetyadvice>
+          <action>
+            <condition>Der PI-Mod-Fan
+ist von der Stromquelle getrennt.</condition>
+            <step>Lösen Sie die Stellschraube
+durch drehen gegen den Uhrzeigersinn.</step>
+          </action>
+          <action>
+            <step>Ziehen Sie
+die Rotoreinheit vom Stangenoberteil ab.</step>
+          </action>
+          <action>
+            <step>Drehen
+Sie die Rotoreinheit um.</step>
+          </action>
+          <action>
+            <step>Sprühen Sie jeweils eine
+halbe Sekunde Schmiermittel in die beiden Öffnungen an der Rotoreinheit, die
+mit dem Ölsymbol <inlinemediaobject objectname="OelSym2.svg"/> versehen sind
+und halten die Rotoreinheit für Zehn Sekunden in dieser
+Position.</step>
+          </action>
+          <action>
+            <step>Stecken Sie die Rotoreinheit auf das
+Stangenoberteil und drehen die Stellschraube im Uhrzeigersinn
+fest.</step>
+          </action>
+          <result>
+            <paragraph>Die Schmierung beweglicher Teile ist
+abgeschlossen.</paragraph>
+          </result>
+        </task_body>
+      </task>
+    </chapter>
+    <diagnosis countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Software" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTroubleshooting" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Fault" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0045">
+      <heading>Störungsabhilfe</heading>
+      <orientation>
+        <paragraph/>
+      </orientation>
+      <diagnosis_body>
+        <errordescription>
+          <symptom>
+            <description>Ihr Multimediagerät benutzt die falsche Verbindungsart,
+um den PI-Mod-Fan zu regeln.</description>
+          </symptom>
+          <cause>Bei der Installation
+auf Ihrem multimediagerät mit Betriebssystem A wurde die falsche Verbindungsart
+ausgewählt.</cause>
+          <solution>Führen Sie erneut die Handlungsschritte des
+Abschnittes <link linktotargetid="BetriebssystemA_task.xml">Betriebssystem
+A</link> aus.</solution>
+          <cause>Bei der Installation auf Ihrem multimediagerät
+mit OS-Y von Obst wurde die falsche Verbindungsart ausgewählt.</cause>
+          <solution>Führen Sie erneut die Handlungsschritte des Abschnittes
+<link linktotargetid="BetriebssystemB_task.xml">Betriebssystem B</link>
+aus.</solution>
+          <cause>Bei der Installation auf Ihrem multimediagerät mit
+Betriebssystem A wurde die falsche Verbindungsart ausgewählt.</cause>
+          <solution>Führen Sie erneut die Handlungsschritte des Abschnittes
+<link linktotargetid="BetriebssystemC_task.xml">Betriebssystem C</link>
+aus.</solution>
+        </errordescription>
+      </diagnosis_body>
+    </diagnosis>
+  </chapter>
+  <chapter xmlns:iirds="http://iirds.tekom.de/iirds" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" countrycode="DE" langcode="de" translate="yes" nodeid="0008">
+    <heading>Außerbetriebnahme</heading>
+    <task countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericTask" iirds:InformationSubject="http://iirds.tekom.de/iirds#Process" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Decommissioning" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0017">
+      <heading>Demontage</heading>
+      <task_body>
+        <safetyadvice class="danger">
+          <cause>Trennen Sie den PI-Mod-Fan vor der
+Demontage von der Stromquelle!</cause>
+          <consequences>Gefahr durch
+Stromschlag!</consequences>
+          <action>
+            <step>Trennen Sie den PI-Mod-Fan von der
+Stromquelle.</step>
+          </action>
+        </safetyadvice>
+        <action>
+          <condition>Der PI-Mod-Fan
+ist von der Stromquelle getrennt.</condition>
+          <step>Lösen Sie die Stellschraube
+durch drehen gegen den Uhrzeigersinn und ziehen die Rotoreinheit vom
+Stangenoberteil ab.</step>
+        </action>
+        <action>
+          <step>Lösen Sie die
+Schutzgitter-Klemmen und nehmen das vordere Schutzgitter ab.</step>
+        </action>
+        <action>
+          <step>Ziehen Sie den Rotor von der Kopfeinheit ab und ziehen die
+Rotorblätter aus der Rotorblatt-Halterung.</step>
+        </action>
+        <action>
+          <step>Nehmen
+Sie das hintere Schutzgitter von der Kopfeinheit ab.</step>
+        </action>
+        <result>
+          <paragraph>Die Rotoreinheit ist demontiert.</paragraph>
+        </result>
+        <action>
+          <step>Lösen Sie die Stellschraube an der Boden-/Wandstange durch drehen gegen
+den Uhrzeigersinn und ziehen das Stangenoberteil von der Boden-/Wandstange
+ab.</step>
+        </action>
+        <action>
+          <step>Lösen Sie die Stellschraube am Standfuß durch
+drehen gegen den Uhrzeigersinn und ziehen die Boden-/Wandstange
+ab.</step>
+        </action>
+        <action>
+          <condition>Nur bei der Wandmontage.</condition>
+          <step>Drehen Sie den Standfuß gegen den Uhrzeigersinn und nehmen ihn von der
+Wandbefestigung ab.</step>
+        </action>
+        <result>
+          <paragraph>Der PI-Mod-Fan ist
+demontiert.</paragraph>
+        </result>
+      </task_body>
+    </task>
+    <descriptive countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:ProductLifeCyclePhase="http://iirds.tekom.de/iirds#Disposal" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0019">
+      <heading>Entsorgung</heading>
+      <descriptive_body>
+        <paragraph>Der PI-Mod-Fan darf nicht im Haushaltsabfall entsorgt werden. Er ist
+bei einer Sammelstelle für elektrische und elektronische Geräte zu entsorgen.
+Informationen zu diesen Sammelstellen erteilt Ihr zuständiges Rathaus, die
+Müllabfuhr oder das Geschäft, in dem Sie den PI-Mod-Fan erworben
+haben.</paragraph>
+        <paragraph>Mit einer verantwortungsbewußten Entsorgung helfen
+Sie unsere Umwelt zu erhalten. Vielen
+Dank!</paragraph>
+      </descriptive_body>
+    </descriptive>
+  </chapter>
+  <descriptive xmlns:iirds="http://iirds.tekom.de/iirds" countrycode="DE" langcode="de" translate="yes" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunden" media="PDF CHM" market="de-DE de-CH de-AT" nodeid="0046">
+    <heading>Technische Daten</heading>
+    <descriptive_body>
+      <table tablewidth="textsize">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>
+                <paragraph>Produktbezeichnung:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>PI-Mod-Fan
+1-0a</paragraph>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <paragraph>Spannung:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>230 V, 50
+Hz</paragraph>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <paragraph>Leistung:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>60
+Watt</paragraph>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <paragraph>Luftdurchsatz:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>ca. 3500 m 
+<superscript>3</superscript>/h</paragraph>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <paragraph>Maße (L x B x H) in <inlinedata><si-value><number/>
+<unit>cm</unit></si-value></inlinedata>:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>50 x 50 x 90-130</paragraph>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <paragraph>Gewicht:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>
+                  <inlinedata>
+                    <si-value>
+                      <number>10</number>
+                      <unit>kg</unit>
+                    </si-value>
+                  </inlinedata>
+                </paragraph>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </descriptive_body>
+  </descriptive>
+  <glossary xmlns:iirds="http://iirds.tekom.de/iirds" countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericConcept" iirds:InformationSubject="http://iirds.tekom.de/iirds#GenericTechnicalOverview" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0022">
+    <heading>Glossar</heading>
+    <glossary_body>
+      <glossary-entry>
+        <glossterm>Allgemeine Reinigung</glossterm>
+        <glossdef>
+          <paragraph>Eine Reinigung der Oberfläche des PI-Mod-Fans, bei der keine
+Bauteile demontiert werden.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Betriebssystem</glossterm>
+        <glossdef>
+          <paragraph>Das
+Betriebssystem ist eine Gerätesoftware, die eine Nutzeroberfläche zur
+Interaktion bietet und als Plattform für weitere Software
+dient.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Betriebssystem A</glossterm>
+        <glossdef>
+          <paragraph>Betriebssystem A
+ist ein Betriebssystem, auf dem die PI-Mod-Software installiert werden
+kann.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Betriebssystem B</glossterm>
+        <glossdef>
+          <paragraph>Betriebssystem B
+ist ein Betriebssystem, auf dem die PI-Mod-Software installiert werden
+kann.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Betriebssystem C</glossterm>
+        <glossdef>
+          <paragraph>Betriebssystem C
+ist ein Betriebssystem, auf dem die PI-Mod-Software installiert werden
+kann.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Bodenstange</glossterm>
+        <glossdef>
+          <paragraph>Die Bodenstange ist in
+Kombination mit dem Stangenoberteil das Verbindungsstück zwischen Kopfeinheit
+und Standfuß im Standbetrieb. Wird der PI-Mod-Fan an der Wand montiert, wird
+die Wandstange anstelle der Bodenstange
+verwendet.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Buchse</glossterm>
+        <glossdef>
+          <paragraph>In dieser Nutzerdokumentation
+kommen zwei Buchsentypen vor. Die Buchse einer Steckdose und die Buchse am
+PI-Mod-Fan. Die Buchse ist der Anschlusspunkt für Stromkabel. In die Buchse am
+PI-Mod-Fan kann entweder das Stromkabel oder der Stromkabel-Adapter eingesteckt
+werden.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Fernbedienung</glossterm>
+        <glossdef>
+          <paragraph>Die Fernbedienung
+dient der Regelung des PI-Mod-Fans aus der Entfernung. Die Fernbedienung ist
+mit einer eingebauten Batterie versehen und wird wieder aufgeladen, indem sie
+in der Ladestation an der Kopfeinheit eingesteckt
+wird.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Hinteres Schutzgitter</glossterm>
+        <glossdef>
+          <paragraph>Das hintere
+Schutzgitter wird zusammen mit anderen Komponenten zur Rotoreinheit montiert.
+Das hintere Schutzgitter wird an die Kopfeinheit angesteckt und das vordere
+Schutzgitter auf das hintere Schutzgitter aufgesetzt und mit
+Schutzgitter-Klemmen befestigt. Das Schutzgitter verhindert den Kontakt zum
+drehenden Rotor und beugt damit Personenschäden oder Sachbeschädigungen
+vor.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Infrarot-Schnittstelle</glossterm>
+        <glossdef>
+          <paragraph>Eine
+Infrarot-Schnittstelle ist ein Sende-/Empfangseinheit für die kabellose
+Datenübertragung mittels Infraroter-Strahlung. Für die Datenübertragung muss
+zwischen Sende- und Empfangseinheit eine Sichtlinie
+bestehen.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Internet-Browser</glossterm>
+        <glossdef>
+          <paragraph>Der
+Internet-Browser ist eine Computerprogramm, das Internetseiten darstellen
+kann.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Internetseite</glossterm>
+        <glossdef>
+          <paragraph>Eine Internetseite ist
+eine Datei, die durch die Internetadresse (auch Link oder URI) mit einem
+Internet-Browser aufgerufen werden
+kann.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Internetadresse</glossterm>
+        <glossdef>
+          <paragraph>Die Internetadresse
+(auch Link oder URI) ist die Angabe, wo ein Browser die zugehörige
+Internetseite findet.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Kopfeinheit</glossterm>
+        <glossdef>
+          <paragraph>Die Kopfeinheit wird
+zusammen mit anderen Komponenten zur Rotoreinheit montiert. Die Rotoreinheit
+enthält die Motoren, die Rotor und Oszillation ermöglichen. An der Rotoreinheit
+befinden sich Schalter, mit denen der PI-Mod-Fan geregelt werden kann, sowie
+die Empfänger für die Fernbedienung. Die Kopfeinheit beinhaltet eine
+Ladestation für die Fernbedienung.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Leiter (elektr.)</glossterm>
+        <glossdef>
+          <paragraph>Ein
+Leiter ist Teil eines Stromkabels. Ein Stromkabel im Niederspannungsnetz eines
+Gebäudes enthält drei Leiter. Die stromführende Phase (schwarz/braun), der
+Nullleiter (blau) und der Schutzleiter
+(grün-gelb)</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Leuchtdioden</glossterm>
+        <glossdef>
+          <paragraph>Eine Leuchtdiode (auch
+LED) ist eine Diode, die Aufgrund des verwendeten Halbleiter-Materials Licht
+ausstrahlen kann.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Luftstrom</glossterm>
+        <glossdef>
+          <paragraph>Der Luftstrom, ist die vom
+Rotor des PI-Mod-Fans beschleunigt
+Umgebungsluft.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Multimediagerät</glossterm>
+        <glossdef>
+          <paragraph>In dieser
+Nutzerdokumentation wird Multimediagerät stellvertretend für folgende Geräte
+benutzt: Mobiltelefone, Net-/Notebooks, PDAs, Tablet-Computer und
+Desktop-Computer.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Oszillation</glossterm>
+        <glossdef>
+          <paragraph>Mit Oszillation ist im
+Bezug auf den PI-Mod-Fan die Bewegung des Rotors gemeint, der abwechselnd in
+beide Richtungen horizontal um 45° ausschwenkt, ausgehend von der
+Ausgangsstellung.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>PI-Mod-Fan</glossterm>
+        <glossdef>
+          <paragraph>Der PI-Mod-Fan ist ein
+elektrisch betriebenes Gerät, welches der Umwälzung der Raumluft
+dient.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>PI-Mod-Fan-Software</glossterm>
+        <glossdef>
+          <paragraph>Die
+PI-Mod-Fan-Software ermöglicht die Regelung des PI-Mod-Fans durch ein
+Multimediagerät mit
+WLAN/Infrarot-Schnittstelle.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Phasenprüfer</glossterm>
+        <glossdef>
+          <paragraph>Der
+Phasenprüfer ist ein Schraubendreher mit Prüffunktion für Elektrik. Er ist mit
+einer Lampe versehen, die leuchtet, wenn die Klinge des Phasenprüfers auf
+Spannung trifft.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Regeln</glossterm>
+        <glossdef>
+          <paragraph>In dieser Nutzerdokumentation
+steht Regeln für das manuelle Bedienen des PI-Mod-Fans am Gerät selbst oder
+durch Fernbedienung.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Rotor</glossterm>
+        <glossdef>
+          <paragraph>Der Rotor ist kein
+eigenständiges Bauteil, er wird aus Rotorblatt-Halterung und den Rotorblättern
+montiert. Der Rotor wird zusammen mit anderen Komponenten zur Rotoreinheit
+montiert. Von der Kopfeinheit angetrieben, erzeugt der Rotor den
+Luftstrom.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Rotorblatt</glossterm>
+        <glossdef>
+          <paragraph>Die Rotorblätter werden
+in der Rotorblatt-Halterung befestigt und bilden den
+Rotor.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Rotorblatt-Halterung</glossterm>
+        <glossdef>
+          <paragraph>Die
+Rotorblätter werden in der Rotorblatt-Halterung befestigt und bilden den
+Rotor.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Rotoreinheit</glossterm>
+        <glossdef>
+          <paragraph>Die Rotoreinheit ist
+kein eigenständiges Bauteil, sie wird aus Kopfeinheit, Rotor, vorderem und
+hinterem Schutzgitter montiert.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Schmiermittel (PI-Mod-Fan-Schmiermittel)</glossterm>
+        <glossdef>
+          <paragraph>Das Schmiermittel dient dazu, die Reibung zwischen
+beweglichen Teilen zu verringern und mindert dadurch den Verschleiß. Das
+Schmiermittel besteht aus einer Silikonbasis. Im Gegensatz zu Schmiermitteln
+auf Mineralöl-Basis, verharzen Silikon-Schmiermittel nicht. Die daraus
+resultierende geringere Verunreinigung bringt einen niedrigeren
+Reinigungsbedarf mit sich.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Schutzgitter-Klemme</glossterm>
+        <glossdef>
+          <paragraph>Die Schutzgitter-Klemme ist ein Mechanismus, mit dem das vordere
+Schutzgitter an das hintere Schutzgitter zur Befestigung angeklemmt
+wird.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Sicherungskasten</glossterm>
+        <glossdef>
+          <paragraph>Der
+Sicherungskasten (auch Verteiler genannt) ist die zentrale Stelle, von der aus
+elektrische Energie in ein Niederspannungsnetz eines Gebäudes oder
+Gebäudeteiles eingespeist wird. Der Sicherungskasten beinhaltet Sicherungs- und
+Verteilungselemente und ist
+verschließbar.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Spannung (elektr.)</glossterm>
+        <glossdef>
+          <paragraph>Elektrische
+Spannung ist die Kraft, die auf freie Elektronen wirkt und entsteht durch einen
+Ladungsunterschied zweier Punkte.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Standmontage</glossterm>
+        <glossdef>
+          <paragraph>Bei der
+Standmontage wird der PI-Mod-Fan stehend im Raum aufgebaut und ist nicht fest
+verankert.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Stangenoberteil</glossterm>
+        <glossdef>
+          <paragraph>Das Stangenoberteil
+ist in Kombination mit Bodenstange oder Wandstange das Verbindungsstück
+zwischen Kopfeinheit und Standfuß. Wird die Stellschraube an Boden-/Wandstange
+gelöst, kann die Höhe des PI-Mod-Fans verstellt werden, in dem das
+Stangenoberteil in die Boden-/Wandstange tiefer eingeschoben oder aus dieser
+herausgezogen wird.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Steckdosen-Kabel</glossterm>
+        <glossdef>
+          <paragraph>Das
+Steckdosen-Kabel versorgt den PI-Mod-Fan mit Strom, indem es Strom von der
+Steckdose zum Standfuß leitet.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Stellschraube</glossterm>
+        <glossdef>
+          <paragraph>Die
+Stellschraube ist ein Mechanismus, mit dem zwei Bauteile verbunden werden und
+wieder von einander gelöst werden können. Die Stellschraube ist an einem der
+beiden zu verbindenden Bauteile fest
+angebracht.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Stromkabel</glossterm>
+        <glossdef>
+          <paragraph>Das Stromkabel versorgt
+den PI-Mod-Fan mit Strom, indem es Strom eines Niederspannungs-Netzes an den
+PI-Mod-Fan leitet. Das Stromkabel wird durch den Stromkabel-Adapter mit dem
+PI-Mod-Fan verbunden.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Stromkabel-Adapter</glossterm>
+        <glossdef>
+          <paragraph>Der
+Stromkabel-Adapter wird für den Betrieb an der Wand benötigt, wenn der
+PI-Mod-Fan nicht mit dem Steckdosen-Kabel an der Steckdose betrieben werden
+soll. Der Stromkabel-Adapter wird mit einer elektrischen Leitung des Raumes
+verbunden und wird in den PI-Mod-Fan anstelle des Steckdosen-Kabels
+eingesteckt. Dies ermöglicht eine Verblendung der elektrischen Leitung, um
+Gefahren durch ein frei hängendes Kabel zu vermeiden und es optisch zu
+verdecken.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Stromquelle</glossterm>
+        <glossdef>
+          <paragraph>Die Stromquelle ist der
+Punkt, an dem der PI-Mod-Fan mit dem Gebäude-Stromnetz verbunden ist. Dieser
+Punkt kann die Steckdose oder ein Stromkabel des Gebäude-Stromnetzes
+sein.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Vorderes Schutzgitter</glossterm>
+        <glossdef>
+          <paragraph>Das vordere
+Schutzgitter wird zusammen mit anderen Komponenten zur Rotoreinheit montiert.
+Das vordere Schutzgitter wird auf das hintere Schutzgitter aufgesetzt und durch
+die Schutzgitter-Klemmen befestigt. Das Schutzgitter verhindert den Kontakt zum
+drehenden Rotor und beugt damit Personenschäden oder Sachbeschädigungen
+vor.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Wandbefestigung</glossterm>
+        <glossdef>
+          <paragraph>Die Wandbefestigung
+ermöglicht es, den PI-Mod-Fan sicher an der Wand zu
+befestigen.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Wandmontage</glossterm>
+        <glossdef>
+          <paragraph>Bei der Wandmontage wird
+der PI-Mod-Fan an der Wand befestigt.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>Wandstange</glossterm>
+        <glossdef>
+          <paragraph>Die
+Wandstange ist in Kombination mit dem Stangenoberteil das Verbindungsstück
+zwischen Kopfeinheit und Standfuß im Betrieb an der Wand. Wird der PI-Mod-Fan
+für den Standbetrieb montiert, wird die Bodenstange anstelle der Wandstange
+verwendet.</paragraph>
+        </glossdef>
+      </glossary-entry>
+      <glossary-entry>
+        <glossterm>WLAN</glossterm>
+        <glossdef>
+          <paragraph>WLAN steht für Wireless Local
+Area Network (drahtloses lokales Netzwerk). WLAN ist ein Funkstandard zur
+Datenübertragung.</paragraph>
+        </glossdef>
+      </glossary-entry>
+    </glossary_body>
+  </glossary>
+  <descriptive xmlns:iirds="http://iirds.tekom.de/iirds" countrycode="DE" langcode="de" iirds:Component="http://pi-fan.de/component#Ventilator" iirds:TopicType="http://iirds.tekom.de/iirds#GenericReference" docutype="Kundendokumentation" product="PI-Mod-Fan a" targetgroup="Kunde" media="PDF CHM" market="de-DE de-CH de-AT" translate="yes" nodeid="0025">
+    <heading>Kundenservice</heading>
+    <descriptive_body>
+      <paragraph>In dieser Nutzerdokumentation werden alle
+Bereiche, die den PI-Mod-Fan betreffen ausführlich beschrieben. Hilfe bei
+Problemen finden Sie auch im Abschnitt
+<link linktotargetid="Stoerungsabhilfe_diagnosis.xml">Störungsabhilfe</link>.</paragraph>
+      <paragraph>Haben Sie dennoch Fragen oder Probleme, die den PI-Mod-Fan
+betreffen, wenden Sie sich bitte an unseren Kundenservice.</paragraph>
+      <table tablewidth="textsize">
+        <tgroup cols="2">
+          <thead>
+            <row>
+              <entry>
+                <paragraph>Der
+Kundenservice ist erreichbar:</paragraph>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <paragraph>Telefonisch unter:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>+49
+721 71305742</paragraph>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <paragraph>Per E-Mail
+unter:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>pi-mod-fan-service@karlsruhe.de</paragraph>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <paragraph>Auf unserer Internetseite:</paragraph>
+              </entry>
+              <entry>
+                <paragraph>
+                  <link linktotargetid="http//:www.pi-mod.de/service/">http//:www.pi-mod.de/service/</link>
+                </paragraph>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </descriptive_body>
+  </descriptive>
+</document>

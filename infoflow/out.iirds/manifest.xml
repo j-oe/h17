@@ -1,0 +1,42 @@
+<component identifier="out.iirds">
+    <meta>
+        <name>iiRDS Package</name>
+        <vers>0.9</vers>
+        <desc>Publiziert ein iiRDS-Paket nach Vorgaben des RfC.</desc>
+    </meta>
+    <process>
+        <interface>
+            <input type="main" template="application/vnd.infoflow.content+xml" />
+            <output type="main" template="application/iirds+zip" result="package.iirds"/>
+        </interface>
+        <steps>
+            <step component="base.transform">
+                <parameter type="contents" name="xsl">buildPackageContent.xsl</parameter>
+            </step>
+            <step component="base.copy.dir">
+                <parameter name="origin" type="contents">assets</parameter>
+                <parameter name="target" type="pub">targets/iirds</parameter>
+            </step>
+            <step component="base.copy.dir">
+                <parameter name="origin" type="pub">content/media</parameter>
+                <parameter name="target" type="pub">targets/iirds/CONTENT/media</parameter>
+            </step>
+            <step component="base.copy.file">
+                <parameter name="target" type="pub">targets/iirds/META-INF/metadata.rdf</parameter>
+            </step>
+            <step component="base.pull">
+                <parameter name="file" type="pub">content/content.xml</parameter>
+            </step>
+            <step component="base.copy.file">
+                <parameter name="target" type="pub">targets/iirds/CONTENT/document/${publication}.xml</parameter>
+            </step>
+            <step component="base.zip.compress">
+                <parameter name="origin" type="pub">targets/iirds</parameter>
+                <parameter name="target" type="tmp">package.iirds</parameter>
+            </step>
+            <step component="base.pull">
+                <parameter name="file" type="tmp">package.iirds</parameter>
+            </step>
+        </steps>
+    </process>
+</component>

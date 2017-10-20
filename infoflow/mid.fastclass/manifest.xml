@@ -1,0 +1,28 @@
+<component identifier="mid.fastclass">
+    <meta>
+        <name>Mit fastclass klassifizieren</name>
+        <vers>0.1</vers>
+        <desc>Klassifiziert automatisch Inhalte anhand eines fastclass-Modells (.fcm).</desc>
+    </meta>
+    <process>
+        <interface>
+            <input type="main" template="application/vnd.infoflow.content+xml" />
+            <input type="meta" template=".fcm" />
+            <output type="main" template="application/vnd.infoflow.content+xml" />
+        </interface>
+        <steps>
+            <!-- build a text object for processing -->
+            <step component="base.transform">
+                <parameter name="xsl" type="contents">buildTxtObj.xsl</parameter>
+            </step>
+            <!-- classify text objects -->
+            <step component="base.js.node">
+                <parameter name="script" type="contents">main.js</parameter>
+            </step>
+            <!-- markup sections with clasifications -->
+            <step component="base.transform">
+                <parameter name="xsl" type="contents">addClassifications.xsl</parameter>
+            </step>
+        </steps>
+    </process>
+</component>

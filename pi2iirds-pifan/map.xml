@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map desc="PI-Mod/PI-Fan to iiRDS instances">
+    <submap key="TopicType">
+        <convert attr-src="element"      pi-value="task"                 iirds-value="http://iirds.tekom.de/iirds#GenericTask" />
+        <convert attr-src="element"      pi-value="descriptive"          iirds-value="http://iirds.tekom.de/iirds#GenericConcept" />
+        <convert attr-src="infoclass-1"  pi-value="Instruktion"          iirds-value="http://iirds.tekom.de/iirds#GenericTask" />
+        <convert attr-src="infoclass-1"  pi-value="Inbetriebnahme"       iirds-value="http://iirds.tekom.de/iirds#GenericTask" />
+        <convert attr-src="infoclass-1"  pi-value="Außerbetriebnahme"    iirds-value="http://iirds.tekom.de/iirds#GenericTask" />
+        <convert attr-src="infoclass-1"  pi-value="Deskription"          iirds-value="http://iirds.tekom.de/iirds#GenericConcept" />
+        <convert attr-src="infoclass-1"  pi-value="Description"          iirds-value="http://iirds.tekom.de/iirds#GenericConcept" />
+        <convert attr-src="infoclass-1"  pi-value="Produktbeschreibung"  iirds-value="http://iirds.tekom.de/iirds#GenericConcept" />
+        <convert attr-src="infoclass-2"  pi-value="Produktbeschreibung"  iirds-value="http://iirds.tekom.de/iirds#GenericConcept" />
+        <convert attr-src="infoclass-2"  pi-value="Support"              iirds-value="http://iirds.tekom.de/iirds#GenericReference" />
+        <convert attr-src="infoclass-2"  pi-value="Störungsabhilfe"      iirds-value="http://iirds.tekom.de/iirds#GenericTroubleshooting" />
+    </submap>
+    <submap key="InformationSubject">
+        <convert attr-src="element"      pi-value="taskintervall"        iirds-value="http://iirds.tekom.de/iirds/domain/machinery#MaintenancePlan" />
+        <convert attr-src="element"      pi-value="lubrication"          iirds-value="http://iirds.tekom.de/iirds/domain/machinery#LubricationPlan" />
+        <convert attr-src="prodclass-2"  pi-value="Schmiermittel"        iirds-value="http://iirds.tekom.de/iirds/domain/machinery#LubricationPlan" />
+        <convert attr-src="element"      pi-value="tools"                iirds-value="http://iirds.tekom.de/iirds/domain/machinery#ListOfTools" />
+        <convert attr-src="prodclass-1"  pi-value="Werkzeug"             iirds-value="http://iirds.tekom.de/iirds/domain/machinery#ListOfTools" />
+        <convert attr-src="infoclass-2"  pi-value="Sicherheitshinweise"  iirds-value="http://iirds.tekom.de/iirds#SafetyInstruction" />
+        <convert attr-src="infoclass-1"  pi-value="Produktbeschreibung"  iirds-value="http://iirds.tekom.de/iirds#GenericTechnicalOverview" />
+        <convert attr-src="infoclass-2"  pi-value="Produktbeschreibung"  iirds-value="http://iirds.tekom.de/iirds#GenericTechnicalOverview" />
+        <convert attr-src="element"      pi-value="task"                 iirds-value="http://iirds.tekom.de/iirds#Process" />
+    </submap>        
+    <submap key="ProductLifeCyclePhase">
+        <convert attr-src="element"      pi-value="diagnosis"            iirds-value="http://iirds.tekom.de/iirds/domain/machinery#Diagnostics" />
+        <convert attr-src="infoclass-2"  pi-value="Transport"            iirds-value="http://iirds.tekom.de/iirds/domain/machinery#Transport" />
+        <convert attr-src="infoclass-2"  pi-value="Lagerung"             iirds-value="http://iirds.tekom.de/iirds/domain/machinery#Storage" />
+        <convert attr-src="infoclass-2"  pi-value="Inbetriebnahme"       iirds-value="http://iirds.tekom.de/iirds/domain/machinery#Commissioning" />
+        <convert attr-src="infoclass-2"  pi-value="Lagerung"             iirds-value="http://iirds.tekom.de/iirds/domain/machinery#Storage" />
+        <convert attr-src="infoclass-2"  pi-value="Betrieb"              iirds-value="http://iirds.tekom.de/iirds#Operation" />
+        <convert attr-src="infoclass-2"  pi-value="Wartung"              iirds-value="http://iirds.tekom.de/iirds#Maintenance" />
+        <convert attr-src="infoclass-2"  pi-value="Störungsabhilfe"      iirds-value="http://iirds.tekom.de/iirds#Fault" />
+        <convert attr-src="infoclass-2"  pi-value="Außerbetriebnahme"    iirds-value="http://iirds.tekom.de/iirds#Decommissioning" />
+        <convert attr-src="infoclass-2"  pi-value="Entsorgung"           iirds-value="http://iirds.tekom.de/iirds#Disposal" />
+    </submap>
+    <submap key="Component">
+        <convert attr-src="prodclass-1"  pi-value="Ventilator"           iirds-value="http://pi-fan.de/component#Ventilator" />
+        <convert attr-src="prodclass-2"  pi-value="Rotoreinheit"         iirds-value="http://pi-fan.de/component#Rotoreinheit" />
+        <convert attr-src="prodclass-2"  pi-value="Steckdosenkabel"      iirds-value="http://pi-fan.de/component#Steckdosenkabel" />
+        <convert attr-src="prodclass-2"  pi-value="Stromkabeladapter"    iirds-value="http://pi-fan.de/component#Stromkabeladapter" />
+        <convert attr-src="prodclass-1"  pi-value="Standventilator"      iirds-value="http://pi-fan.de/component#Standventilator" />
+        <convert attr-src="prodclass-1"  pi-value="Wandventilator"       iirds-value="http://pi-fan.de/component#Wandventilator" />
+        <convert attr-src="prodclass-1"  pi-value="Software"             iirds-value="http://pi-fan.de/component#Software" />
+        <convert attr-src="prodclass-2"  pi-value="Standbefestigung"     iirds-value="http://pi-fan.de/component#Standbefestigung" />
+        <convert attr-src="prodclass-2"  pi-value="Fernbedienung"        iirds-value="http://pi-fan.de/component#Fernbedienung" />
+    </submap>
+</map>
